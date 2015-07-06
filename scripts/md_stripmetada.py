@@ -20,7 +20,7 @@ with open(input_filename, 'rU') as f:
 i = 0
 start = False
 while i < len(lines):
-	if lines[i].startswith('---') or lines[i].startswith('...'):
+	if (lines[i].startswith('---') or lines[i].startswith('...')) and len(lines[i]) is 4:
 		if start is False:
 			start = i
 		else:
