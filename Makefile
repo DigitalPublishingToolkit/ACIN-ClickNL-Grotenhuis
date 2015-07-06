@@ -34,6 +34,7 @@ markdowns:$(alldocx) # convert docx to md
 	       	--atx-headers \
 		--template=essay.md.template \
 		-o $$md ; \
+	./scripts/md_unique_footnotes.py $$md ; \
 	done
 
 
@@ -82,10 +83,10 @@ book.epub: clean $(allmarkdown) book.md epub/metadata.xml epub/styles.epub.css e
 		--epub-metadata=../epub/metadata.xml \
 		--default-image-extension png \
 		--toc-depth=1 \
-		--epub-embed-font=../lib/VAGRoundedStd-Black.otf \
-		--epub-embed-font=../lib/VAGRoundedStd-Bold.otf \
-		--epub-embed-font=../lib/VAGRoundedStd-Light.otf \
-		--epub-embed-font=../lib/VAGRoundedStd-Thin.otf \
+		--epub-embed-font=../lib/SourceCodePro-Semibold.otf \
+		--epub-embed-font=../lib/OpenSans-Regular.otf \
+		--epub-embed-font=../lib/OpenSans-Light.otf \
+		--epub-embed-font=../lib/OpenSans-LightItalic.otf \
 		-o ../book.epub \
 		book.md && \
 		cd .. && \

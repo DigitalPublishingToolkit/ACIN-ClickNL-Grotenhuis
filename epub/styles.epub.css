@@ -1,36 +1,36 @@
 @font-face{
-    font-family: 'VAGRoundedStd-Light';
-    font-weight: normal;
-    font-style: normal;
-    src:url('VAGRoundedStd-Light.otf')format("opentype");
-}
-
-@font-face{
-    font-family: 'VAGRoundedStd-Thin';
-    font-weight: lighter;
-    font-style: normal;
-    src:url('VAGRoundedStd-Thin.otf')format("opentype");
-}
-
-@font-face{
-    font-family: 'VAGRoundedStd-Bold';
+    font-family: 'SourceCodePro-Semibold';
     font-weight: bold;
     font-style: normal;
-    src:url('VAGRoundedStd-Bold.otf')format("opentype");
+    src:url('SourceCodePro-Semibold.otf')format("opentype");
+}
+
+@font-face{
+    font-family: 'OpenSans-Regular';
+    font-weight: bold;
+    font-style: normal;
+    src:url('OpenSans-Regular.otf')format("opentype");
+}
+
+@font-face{
+    font-family: 'OpenSans-Light';
+    font-weight: lighter;
+    font-style: normal;
+    src:url('OpenSans-Light.otf')format("opentype");
 }
 
 
 @font-face{
-    font-family: 'VAGRoundedStd-Black';
-    font-weight: normal;
-    font-style: normal;
-    src:url('VAGRoundedStd-Black.otf')format("opentype");
+    font-family: 'OpenSans-LightItalic';
+    font-weight: lighter;
+    font-style: italic;
+    src:url('OpenSans-LightItalic.otf')format("opentype");
 }
 
 
 body{
     font-size: 10pt;
-    font-family: VAGRoundedStd-Thin;
+    font-family: 'OpenSans-Light';
     hyphens: none
     -webkit-hyphens:none;
 }
@@ -56,7 +56,7 @@ p {
 
 
 h1,h2,h3,h4{     
-    font-family: VAGRoundedStd-Bold;
+    font-family: 'SourceCodePro-Semibold';
     text-transform:uppercase;
     hyphens: none !important;
     -moz-hyphens: none !important;
@@ -70,7 +70,7 @@ h1,h2,h3,h4{
 
 h1{
     font-size:1.8em;
-    color: #f23f4e;
+    color: #E87511;
     page-break-before: always;
 }
 
@@ -81,11 +81,11 @@ h2{
 
 
 b,strong{
-    font-family: VAGRoundedStd-Bold;
+    font-family: 'OpenSans-Regular';
 }
 
 figcaption{
-        font-family: VAGRoundedStd-Bold;
+    font-family: 'OpenSans-Regular';
     font-size:0.8em;
 }
 
@@ -130,18 +130,19 @@ font-size: 0.5em;
 
 
 blockquote{
+    font-family: 'SourceCodePro-Semibold';
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px grey solid;
+    border-left: 0px #647696 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color: #f23f4e;
+a { color: #E87511;
     text-decoration: none;
   }
 
-a:hover { color: #f23f4e;
+a:hover { color: #E87511;
       text-decoration: underline;
   }
 
@@ -154,7 +155,7 @@ a:hover { color: #f23f4e;
     text-align: center;
     font-weight: bold;
     font-size: 1.15em;
-    color: #f23f4e;
+    color: #E87511;
     -webkit-hyphens:none;
     hyphens: none;
     page-break-inside: avoid;
@@ -166,7 +167,7 @@ a:hover { color: #f23f4e;
 
 hr {
     height: 0;
-    color: #f23f4e;
+    color: #E87511;
     width: 100%;
     border: dotted 5px;
     border-bottom: none;
@@ -189,7 +190,7 @@ ul {
 
 section#colophon h2, section#the-volkskrant-building-manufacturing-difference-in-amsterdams-creative-city h2, section#contents h2, section#acknowledgements h2 {  
     font-size:1.8em;
-    color: #f23f4e;
+    color: #E87511;
 }
 
 /* Images with pink backgorund at the start of chapters:
@@ -236,7 +237,8 @@ section.footnotes li a {
 }
 
 table {
-    border: 1px #f23f4e solid;
+    width:99%;
+    border: 1px #E87511 solid;
     border-collapse: collapse;
     vertical-align: top;
     font-size: 0.5em;
@@ -244,26 +246,26 @@ table {
 }
 
 table th {
-    border-bottom: 1px #f23f4e solid;
+    border-bottom: 1px #E87511 solid;
 }
 
 table th, td {
-    border-left: 1px #f23f4e solid;
-    border-right: 1px #f23f4e solid;
+    border-left: 1px #E87511 solid;
+    border-right: 1px #E87511 solid;
 }
 
 th, td {
     padding: 0.5em;
 }
 table .header {
-    color: #f23f4e;
-    font-family: VAGRoundedStd-Bold;
+    color: #E87511;
+    font-family: 'OpenSans-Regular';
 }
 
 table+p, figure+p {
     text-align: right;
     font-size: 0.5em;
-    font-family: VAGRoundedStd-Bold;
+    font-family: 'OpenSans-Regular';
 }
 
 #colophon p:last-of-type {
@@ -274,7 +276,7 @@ table+p, figure+p {
 
 #colophon img {
     /* limit the logo's height */
-    height: 3em;
+    height: 1em;
 }
 
 figure {
