@@ -1,23 +1,23 @@
 ---
-Pr-id: ClickNL 
+Pr-id: Pieken en dalen in de Creatieve Industrie 
 
-P-id: ClickNL series
-A-id: enter a number here
+P-id: Publiek-private samenwerking van sleutelgebied tot topsector
 
-Item-id: unique no.  
+Book-title: Pieken en dalen in de Creatieve Industrie
 
-Author: Dr. Frits D.J. Grotenhuis  
+Author: Dr. Frits D.J. Grotenhuis 
 
-Author-bio: Dr. Frits D.J. Grotenhuis...
+Author-email: frits@grotenhuisadviseert.nl
 
-Abstract: In *ClickNL* developments in (fashion) retail are
-critically analysed and enriched with insights from retailers in
-Amsterdam. 
+Author-bio: Frits Grotenhuis is als organisatieadviseur gespecialiseerd in innovatievraagstukken en publiek-private samenwerking. Frits reflecteert hierop in diverse publicaties zoals over living labs, ambient intelligence, het deelgebied van ICT, hersenen en cognitie, alsmede de creatieve industrie. De afgelopen jaren was Frits betrokken bij diverse creatieve industrie initiatieven, onder meer als interim directeur voor het TKI CLICKNL.
 
-Keywords: fashion, retailscape, developments, fashion, retail, stores, retailers, Amsterdam, innovation, technological development, cross-media, shopping, shops
+Abstract: Een sector die meer dan tien jaar geleden begon met een samenhang van toevalligheden en veel scepsis, is vandaag de dag niet meer weg te denken uit het Nederlandse innovatielandschap. De topsector Creatieve Industrie, met haar long tail van kleine innovatieve bedrijven, is bij uitstek een sector die in staat is trends en ontwikkelingen te vertalen naar nieuwe concepten, producten en toepassingen. Juist vanuit een cross-overperspectief speelt de creatieve industrie een belangrijke rol, zoals bij toepassingen voor maatschappelijke vraagstukken over mobiliteit of duurzaamheid bij verstedelijking.
+De creatieve industrie is een sector die zich niet laat vangen in een definitie, laat staan een sector die zich gemakkelijk laat organiseren. In dit boek wordt voor het eerst een integraal overzicht gegeven van de dynamiek in de creatieve industrie over de periode 2003-2015. Daarbij worden feiten en inzichten met de lezer gedeeld die een opmerkelijk overzicht van pieken en dalen opleveren. Met ups en downs heeft de creatieve industrie zich van sleutelgebied ontwikkeld tot topsector: een innovatieve topsector met circa 130.000 bedrijven van gemiddeld nauwelijks 2 werknemers. De creatieve industrie representeert ruim 10% van alle Nederlandse bedrijven en draagt circa 2% bij aan de economie.
+Sinds de start van het topsectorenbeleid zijn alleen al in de periode 2012-2014 meer dan 150 creatieve industrie-onderzoeksprojecten gestart, met ruim 200 bedrijven die hierin participeren en die alleen al in 2014 gezamenlijk meer dan 4 miljoen euro investeren. Deze te ontwikkelen kennis draagt uiteindelijk bij aan de ontwikkeling van nieuwe prototypen, producten en diensten. Denk aan oplossingen voor mensen met dementie om langer zelfstandig te kunnen functioneren. In dit boek wordt dan ook een oproep gedaan het huidige topsectorenbeleid te continueren, maar wel met de nodige aanpassingen. Aan de creatieve industrie zelf de uitdaging haar waarde te verzilveren; de belofte en groei zitten in de cross-overs naar andere sectoren. Vraagstukken van morgen vragen om integrale oplossingen waar voor de creatieve industrie bij uitstek een rol is weggelegd!
 
-Rights: This publication is licensed under Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+Keywords: Creatieve Industrie, Publiek-private samenwerking, Sleutelgebied, Topsector, Innovatiebeleid”
+
+Rights: All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronical or mechanical, including photocopying, recording or by any other information storage and retrieval system, without permission of the publisher / Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geauomatiseerd gegevensbestand of openbaar worden gemaakt, in enige vorm of op enige wijze, zonder voorafgaande schriftelijke toestemming van de uitgever.
 
 ...
 
