@@ -1422,7 +1422,7 @@ programma’s.
 
 ### 2007: IIP/Create en FES GATE 
 
-![](imgs/resized-bijfotos/2007.jpg "Scottie") INVOEGEN FOTO SCOTTIE
+![](imgs/resized-bijfotos/2007.jpg "Scottie")
 
 **Scottie**
 *“Scottie is een interactieve spelvorm voor kinderen die noodgedwongen
@@ -1575,7 +1575,7 @@ relatie met haar klanten op een nieuwe manier inhoud geven.
 Fleetconsultancy is een voorbeeld van een succesvolle samenwerking
 tussen service designers en game designers.”*
 
-![](imgs/resized-bijphotos/scania.jpg "Scania Fleetconsultancy") INVOEGEN FOTO’S SCANIA
+![](imgs/resized-bijphotos/scania.jpg "Scania Fleetconsultancy")
 
 **Scania Fleetconsultancy**
 Scania truck en feedbacksysteem gericht op duurzamer rijgedrag van
@@ -2055,7 +2055,7 @@ process of doing business in the focus countries while the popular*
 offered valuable, visual insights into the designers’ processes and
 thinking.”* [^62]
 
-![](imgs/resized-bijphotos/Fashion.jpg "Fashion") INVOEGEN FOTO FASHION
+![](imgs/resized-bijphotos/Fashion.jpg "Fashion")
 
 **FASHION**
 Mode biennale Arnhem 2011
@@ -2296,7 +2296,7 @@ voor Kennis en Innovatie CLICKNL, afgekort TKI CLICKNL.
 
 ### 2011: Topsector, topteam en Dutch Creative Council
 
-![](imgs/resized-bijphotos/2011b.jpg "Ceuvel") INVOEGEN FOTO DE CEUVEL
+![](imgs/resized-bijphotos/2011b.jpg "Ceuvel")
 
 **De Ceuvel**
 *“De Ceuvel is a planned workplace for creative and social enterprises
@@ -3042,9 +3042,7 @@ Netwerken representeren. Daarnaast wordt de relatie met de Europese
 *societal challenges* gelegd, alsmede met vijf *creative industries
 research areas*: inhoudelijke onderzoeksvraagstukken.
 
-INVOEGEN VISUALISATIE KIA
-
-BIJSCHRIFT
+[](images/Infographics/Illustratie-programmatische-invulling-pagina-105-van-het-boek.jpg "Kennis en innovatieagenda CLICKNL")
 
 Kennis- en innovatieagenda CLICKNL[^72]
 
@@ -3063,9 +3061,7 @@ research area* is in dit voorbeeld Smart Society, waarbij onderzoek
 wordt gedaan naar slimme e-health-oplossingen en gamificationconcepten
 in relatie tot dementie en langer zelfstandig kunnen functioneren.
 
-INVOEGEN VISUALISATIE INVULLING KIA
-
-BIJSCHRIFT
+![](imgs/Infographics/Kennis en innovatieagenda CLICKNL - pagina 105 van het boek.jpg "Illustratie van programmatische invulling")
 
 Illustratie van programmatische invulling van onderdelen van de KIA met
 een programma over langer zelfstandig functioneren met dementie, waarbij
@@ -3178,9 +3174,7 @@ strategische en embedded research-projecten. Bij deze ruim 100
 onderzoeksprojecten zijn meer dan 200 bedrijven als partner in consortia
 betrokken[^77].
 
-INVOEGEN VISUALISATIE KERNCIJFERS NWO EN TNO
-
-BIJSCHRIFT
+![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "Kerncijfers creatieve industrie NWO en TNO")
 
 Kerncijfers creatieve industrie NWO en TNO, periode 2012-2014
 
@@ -3327,18 +3321,13 @@ onderzoeksonderwerp.
 
 ### 2013: Een grillig jaar en kafkaiaanse situaties
 
-INVOEGEN FOTO 3D PRINTING
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/ "3D printing") INVOEGEN FOTO 3D PRINTING
 
 **3D printing**
-
 *“Tijdens PICNIC'10 stonden drie verschillende 3D printers opgesteld in
 het (Un)limited Design Lab op 23 september: de RepRap, de MakerBot en de
 Ultimaker.”*
-
 Fotografie: Marco Baiwir
-
 Met dank aan Waag Society
 
 De praktijk van uitvoering van de plannen is weerbarstig gebleken. Er is
@@ -3449,9 +3438,7 @@ creatieve industrie. Met IPC-projecten kunnen MKB-consortia gevormd
 worden die samenwerken aan een meerjarig innovatietraject in dezelfde
 keten, branche of regio.
 
-INVOEGEN VISUALISATIE RVO (MIT CIJFERS)
-
-BIJSCHRIFT
+![](imgs/Infographics/Kerncijfers MIT 2013 en 2014 - pagina 116 van het boek.jpg "Kerncijfers MIT 2013 en 2014") INVOEGEN VISUALISATIE RVO (MIT CIJFERS)
 
 Kerncijfers MIT 2013 en 2014
 
@@ -3549,7 +3536,7 @@ komende jaren verder blijft groeien. Op deze manier kan het vliegwiel
 echt gaan werken, waarbij op basis van nieuw onderzoek (gefinancierd met
 TKI-toeslag) weer nieuwe TKI-toeslag wordt gegenereerd.
 
-INVOEGEN VISUALISATIE RVO (TKI-REGELING)
+![](imgs/ "") INVOEGEN VISUALISATIE RVO (TKI-REGELING)
 
 BIJSCHRIFT
 
