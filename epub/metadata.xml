@@ -1,6 +1,6 @@
 <dc:identifier id="epub-id-1">urn:isbn:978-94-92171-03-0</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">01</meta>
-<dc:title id="epub-title-1">The Fashion Retailscape: Innovations in Shopping</dc:title>
+<dc:title id="epub-title-1">Pieken en Dalen in de Creatieve Industrie</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
 <!-- Note: the series-information doesn't make it into the final EPUB -->
 <meta content="ACIN" name="calibre:series"/>
