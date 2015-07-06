@@ -3321,7 +3321,7 @@ onderzoeksonderwerp.
 
 ### 2013: Een grillig jaar en kafkaiaanse situaties
 
-![](imgs/resized-bijphotos/ "3D printing") INVOEGEN FOTO 3D PRINTING
+![](imgs/resized-bijphotos/2013.jpg "3D printing")
 
 **3D printing**
 *“Tijdens PICNIC'10 stonden drie verschillende 3D printers opgesteld in
@@ -3438,7 +3438,7 @@ creatieve industrie. Met IPC-projecten kunnen MKB-consortia gevormd
 worden die samenwerken aan een meerjarig innovatietraject in dezelfde
 keten, branche of regio.
 
-![](imgs/Infographics/Kerncijfers MIT 2013 en 2014 - pagina 116 van het boek.jpg "Kerncijfers MIT 2013 en 2014") INVOEGEN VISUALISATIE RVO (MIT CIJFERS)
+![](imgs/Infographics/Kerncijfers MIT 2013 en 2014 - pagina 116 van het boek.jpg "Kerncijfers MIT 2013 en 2014")
 
 Kerncijfers MIT 2013 en 2014
 
@@ -3536,9 +3536,7 @@ komende jaren verder blijft groeien. Op deze manier kan het vliegwiel
 echt gaan werken, waarbij op basis van nieuw onderzoek (gefinancierd met
 TKI-toeslag) weer nieuwe TKI-toeslag wordt gegenereerd.
 
-![](imgs/ "") INVOEGEN VISUALISATIE RVO (TKI-REGELING)
-
-BIJSCHRIFT
+![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "Kerncijfers TKI-toeslag 2013-2015")
 
 Kerncijfers TKI-toeslag 2013-2015
 
@@ -3606,15 +3604,13 @@ in samenwerking met TNO[^86]. Zo begint het wiel steeds harder te
 draaien waarbij de inzet van TKI-gelden moet gaan leiden tot nieuwe
 TKI-toeslag.
 
-INVOEGEN VISUALISATIE RELEVANTE REGELINGEN VOOR KENNIS EN INNOVATIE
-
-BIJSCHRIFT
+![](imgs/Infographics/Overzichten instrumenten en regelingen  - pagina 120 van het boek.jpg "Overzicht instrumenten en regelingen")
 
 Overzicht instrumenten en regelingen
 
 ### 2014: Cross-overs
 
-JAAROPENING FOTO
+![](imgs/resized-bijphotos/2014.jpg "Automatische paspoortcontrole Schiphol")
 
 **Automatische paspoortcontrole Schiphol**
 
@@ -3739,9 +3735,8 @@ van de concrete projecten op locaties van de betrokken vijf gemeenten.
 
 **Create Health**
 
-INVOEGEN FOTO abcdeSIM
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/ABCDEsim-1.png "ABCDESIM")
+![](imgs/resized-bijphotos/abcdeSIM-2.png "abcdeSIM") INVOEGEN FOTO abcdeSIM
 
 **abcdeSIM**
 
@@ -3841,12 +3836,9 @@ stad Utrecht via de Economic Board Utrecht), kennisinstellingen
 (waaronder TNO) en het bedrijfsleven, is de ambitie te groeien naar een
 markt ter waarde van ruim 10 miljard euro in 2015[^92].
 
-INVOEGEN FOTO MOODBOT
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/Moodbot.tif "Moodboot")
 
 **Moodbot**
-
 Moodbot werkt als een interactieve coach, die mensen met een
 psychiatrische aandoening aanspoort signalen van terugval te noteren.
 Dagelijks wordt naar de stemming van dat moment gevraagd en worden
@@ -3855,9 +3847,7 @@ te bezoeken, zodat een netwerkfunctie ontstaat. Door het spelen van de
 game krijgt de cliënt meer inzicht in het eigen herstelproces en ervaart
 zo ook meer eigen regie. Uiteindelijk komt Moodbot ook beschikbaar voor
 dierbaren van cliënten, zodat zij kunnen helpen signaleren.
-
 Afbeelding: **©**Altrecht/HKU, stichting Moodbot
-
 Met dank aan Mir Wermuth, Growing Games
 
 **Growing Games**
