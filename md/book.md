@@ -1,5 +1,4 @@
 
-
 # Pieken en dalen in de Creatieve Industrie
 
 ## Publiek-private samenwerking van sleutelgebied tot topsector
@@ -26,7 +25,7 @@ voorafgaande schriftelijke toestemming van de uitgever:
 
 F.D.J. Grotenhuis
 
-E. <<a href="mailto:frits@grotenhuisadviseert.nl">frits@grotenhuisadviseert.nl</a>>
+E. [frits@grotenhuisadviseert.nl](mailto:frits@grotenhuisadviseert.nl)
 
 I. [www.grotenhuisadviseert.nl](http://www.grotenhuisadviseert.nl)
 
@@ -42,15 +41,15 @@ Mede mogelijk gemaakt door:
 
 ![](imgs/ACIN-colofon.gif)
 
-<br><br/>
+<br/><br/>
 
 Eerste druk, augustus 2015
 
 ISBN: 978-90-821753-1-8
 
 <p style="page-break-after:always;"></p>
-<br><br/>
-<br><br/>
+<br/><br/>
+<br/><br/>
 <blockquote>
 “Here's to the crazy ones.
 
@@ -85,7 +84,7 @@ we see genius.
 Because the people who are crazy enough to think
 
 they can change the world, are the ones who do.”
-<br>
+<br/>
 (Apple ‘Think Different’ reclamecampagne, 1997)
 </br>
 </blockquote>
@@ -420,16 +419,11 @@ naar ‘slimste straat van Nederland’, met multifunctionele en duurzame
 gebouwen, waar volop innovatie plaatsvindt en veel kennis is
 gecentreerd.[^9]
 
-INVOEGEN FOTO THE KNOWLEDGE MILE
-
-BIJSCHRIFT
-
-**The Knowledge Mile**
-
-Met dank aan Amsterdam Creative Industries Network
-
 ![](imgs/The-Knowledge-mile.jpg "The Knowledge Mile")
+
+**The Knowledge Mile** Met dank aan Amsterdam Creative Industries Network. 
 Foto credits: Mark van der Horst | [*Airpic.nl*](http://airpic.nl/)
+
 
 Ook een stad als Eindhoven (met de herontwikkeling van de voormalige
 Philips fabrieksterreinen, de binnenstad, universiteitscampus en High
@@ -495,13 +489,9 @@ sequencing), Medicine & Health (including Quantified Self),
 Neuroscience, Networks & Computing Systems (including Internet of Things
 & Sensors), Energy & Environmental Systems”* [^13]
 
-INVOEGEN FOTO WEARABLE
 ![](imgs/resized-bijfotos/Convergentie-van-mens-en-technologie.jpg "Convergentie van mens en technologie")
 
-BIJSCHRIFT
-
 **Convergentie van mens en technologie**
-
 *Wearables* kennen inmiddels vele toepassingen in relatie tot een
 gezonde leefstijl en zijn door het brede publiek geaccepteerd. Dit
 vooralsnog in tegenstelling tot *implants*, hoewel hier zeker in het
@@ -555,7 +545,7 @@ breinstimulatie om lucide dromen op te wekken (de winnaar). De
 deelnemers waren enthousiast en de organisatoren besloten tot een
 volgende editie in 2015, waarbij de nadruk zal liggen op
 maatschappelijke uitdagingen.” Voor meer informatie:*
-[**www.hackthebrain.nl**](http://www.hackthebrain.nl/)
+[*www.hackthebrain.nl*](http://www.hackthebrain.nl/)
 
 **Do-it-yourself**
 
@@ -625,13 +615,10 @@ nieuwe toepassingen en oplossingen. Denk aan efficiënter ruimtegebruik,
 veiligheid, gezondheidsvraagstukken, verkeer en stedelijke mobiliteit of
 duurzaamheid.
 
-INVOEGEN FOTO’S FRISSE LUCHT PROJECT
-![](imgs/resized-bijfotos/Frisse-Lucht-en-de-leefbaarheid-van-steden-2.jpg "Fisse Lucht Project")
 
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Frisse-Lucht-en-de-leefbaarheid-van-steden.jpg "Frisse Lucht en leefbaarheid van steden")
 
 **Frisse lucht en leefbaarheid van steden**
-
 *“How healthy is our environment? What about the air quality and noise
 levels around your home and can you measure and improve these?
 Increasingly affordable technical tools are available to explore your
@@ -640,7 +627,6 @@ tools. As part of the Smart Citizen kit project, the artists of
 Cascoland show you during "Fresh air!" on the Nieuwmarkt what Coughing
 Shrubs are, how stressed a tree can be, and serve you herby soup.”*
 [*www.waag.org/en/event/fresh-air*](http://www.waag.org/en/event/fresh-air)
-
 Met dank aan Waag Society
 
 De verschillende tendensen grijpen in elkaar. Zo versterkt de
@@ -731,7 +717,7 @@ FOTO GOOGLE GLASS
 
 BIJSCHRIFT
 
-***Google Glass:* naar een *Internet of Things*? **
+**Google Glass**: naar een *Internet of Things*?
 
 De overheid heeft een belangrijke rol in de discussies over privacy en
 ethiek. De adoptie door gebruikers blijft echter bepalend voor het
