@@ -712,13 +712,10 @@ de dag een belangrijke driver van innovatie.
 
 **Big data: kans of bedreiging?**
 
-FOTO GOOGLE GLASS
+
 ![](imgs/resized-bijfotos/Google-glass-naar-een-internet-of-things.jpg "Google Glass")
 
-BIJSCHRIFT
-
-**Google Glass**: naar een *Internet of Things*?
-
+**Google Glass: naar een Internet of Things?**
 De overheid heeft een belangrijke rol in de discussies over privacy en
 ethiek. De adoptie door gebruikers blijft echter bepalend voor het
 uiteindelijke succes van dit soort nieuwe toepassingen.
@@ -949,7 +946,7 @@ topsector met ruim 130.000 bedrijven, bijna 10% van het totaal in
 Nederland. Weliswaar betreffen dit bedrijven met gemiddeld minder dan
 twee mensen in dienst.
 
-INVOEGEN VISUALISATIE KERNCIJFERS CREATIEVE INDUSTRIE
+![](imgs/Infographics/Kerncijfers creatieve industrie - pagina 26 van het boek.jpg "Kerncijfers creatieve industrie")
 
 Een karakteristiek van de creatieve industrie is dan ook dat dé
 creatieve industrie niet bestaat in al haar veelzijdigheid: een
@@ -1094,12 +1091,9 @@ is te denken.
 
 ### 2003: Context kenniseconomie 
 
-INVOEGEN FOTO HACK THE BRAIN
-![](imgs/resized-bijfotos/ "Hack the Brain")
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2003.jpg "Hack the Brain")
 
 **Hack the Brain**
-
 *“Hack the Brain is the first gathering in Europe where experts join to
 explore the opportunities of DIY brainhacking. Researchers, hackers,
 designers and artists come together during the weekend of 23-25 May 2014
@@ -1107,7 +1101,6 @@ to bring neuroscience to the next level, with the help of DIY
 Brainhacking. We organise a bootcamp, a debate and pitches of the best
 hacks. Founding partners: Waag Society and Total Active Media. Partners:
 Donders Institute, Radboud University Nijmegen, TNO”*
-
 Met dank aan Waag Society
 
 Het kabinet Balkenende II (2003-2006) bestond uit VVD, CDA en D66. Dit
@@ -1154,31 +1147,21 @@ samenwerking in het ontstaan van het diensteninnovatieprogrammavoorstel
 er voor gezorgd dat de creatieve industrie vast aan tafel kwam in de
 ‘nieuwe industriepolitiek’.
 
-INVOEGEN FOTO BINNENHOF
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/Het-hart-van-de-Nederlandse-politiek.jpg "Het hart van de Nederlandse politiek")
 
 **Het hart van de Nederlandse politiek**
-
 In 2003 is het Innovatieplatform van start gegaan, als opmaat voor de
 sleutelgebieden in 2004.
 
 ### 2004: Sleutelgebieden
 
-INVOEGEN FOTO SOLAR SHIRT
+![](imgs/resized-bijfotos/2004.jpg "Solar Shirt")
 
-BIJSCHRIFT
-
-**Solar Shirt**
-
+**Solar Shirt** 
+The Solar Shirt is joint development by Pauline van Dongen and Holst Centre
 Fotograaf: Liselotte Fleur
-
 Model: Ann at Paparazzi Models
-
 Hair and make up: Angelique Stapelbroek
-
-The Solar Shirt is joint development by Pauline van Dongen and Holst
-Centre
 
 Vanuit het Innovatieplatform is de zogenaamde sleutelgebiedenaanpak
 ontwikkeld, waarbij in 2004 in eerste instantie vier sleutelgebieden
@@ -1227,14 +1210,10 @@ Creatieve Vermogen’ van de ministeries van EZ en OCW uit 2005.
 
 **CATCH**
 
-INVOEGEN FOTO CATCH
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/Catch.jpg "Catch")
 
 **CATCH**
-
 “*Digitale innovatie voor het culturele erfgoed*”
-
 Met dank aan Patricia Alkhoven
 
 Rond dezelfde tijd in 2004 werd door NWO parallel, maar nagenoeg los
@@ -1254,24 +1233,18 @@ was en een van de fundamenten is geworden voor het latere TKI CLICKNL.
 
 ### 2005: Ons Creatieve Vermogen
 
-INVOEGEN FOTO BIOHACKING
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2005.jpg "Biohacking")
 
 **Biohacking**
-
-***“**Photos of the first BioHack Academy at the Waag in Amsterdam.
+*“Photos of the first BioHack Academy at the Waag in Amsterdam.
 We'll teach you how to join the bio revolution and build your own
 biofactory using a Fablab, Maker/Hackspace or other shared machine
 shop.”*
-
 *Photography: Arne Kuilman on 3 March 2015, Tomek Aaron Dersu on 21
 April 2015.*
-
 *More information available at:*
 [*waag.org/biohackacademy*](http://waag.org/biohackacademy)*;*
 [*biohackacademy.github.io/*](http://biohackacademy.github.io/)[*vimeo.com/channels/biohackacademy*](https://vimeo.com/channels/biohackacademy)
-
 Met dank aan Waag Society
 
 In 2005 hebben de ministeries van EZ en OCW gezamenlijk beleid
@@ -1325,13 +1298,10 @@ om uiteindelijk voldoende marktvraag te genereren.
 
 ### 2006: Onderweg naar nieuwe samenwerkingsverbanden
 
-INVOEGEN FOTO PICNIC
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2006.jpg "Picnic")
 
 **PICNIC**
-
-***“**Photographs from the Waag Construction Site and other events of
+“*Photographs from the Waag Construction Site and other events of
 Waag Society at the PICNIC Festival 2011, held from 14-16 September 2011
 at the NDSM Wharf in the North of Amsterdam. Our main contribution to
 PICNIC was named 'The Urban Future is Personal', following the 'Urban
@@ -1339,10 +1309,8 @@ Futures' theme of this years PICNIC. Most visible was a construction
 that combined both computer-generated 3D designs with ancient mud
 building techniques. Furthermore, several workshops and lectures were
 held on co-creation design, 'Our future self', creative research and
-open data in different settings and multiple locations.”*
-
+open data in different settings and multiple locations.*”
 Fotografie: Tomek Whitfield
-
 Met dank aan Waag Society
 
 In 2006 werden vooral heel veel nieuwe plannen gemaakt en werd aan
@@ -1432,12 +1400,9 @@ programma’s.
 
 ### 2007: IIP/Create en FES GATE 
 
-INVOEGEN FOTO SCOTTIE
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2007.jpg "Scottie") INVOEGEN FOTO SCOTTIE
 
 **Scottie**
-
 *“Scottie is een interactieve spelvorm voor kinderen die noodgedwongen
 gescheiden zijn van hun familie en vrienden. Scottie maakt spelen en
 communicatie op afstand mogelijk op een impliciete en affectieve manier.
@@ -1447,7 +1412,6 @@ afstand verbonden te zijn komt tot stand dankzij het samen kunnen
 spelen. Scottie werd verder ontwikkeld binnen de innovatieve zorgpilot
 van GATE (Game Research for Training and Entertainment).”*
 [*www.waag.org/nl/project/zorgpilot-scottie-gate*](http://www.waag.org/nl/project/zorgpilot-scottie-gate)
-
 Met dank aan Waag Society en GATE
 
 **IIP/Create**
@@ -1545,11 +1509,8 @@ instrument werd ingezet om het veld verder te organiseren, als opmaat
 naar programmering via onder andere een nationaal innovatieprogramma en
 Europese projectfinanciering.
 
-INVOEGEN VISUALISATIE IIP/CREATE
+![](imgs/infographics/Programmatische ambities IIP-CREATE - pagina 55 van het boek.jpg "IIP/Create")
 
-BIJSCHRIFT
-
-Programmatische ambities IIP/Create, voorjaar 2008
 
 Verder heeft IIP/Create enkele pilotprojecten rond cross-overs opgezet
 om de waarde van de creatieve industrie voor andere sectoren te staven,
@@ -1592,15 +1553,11 @@ relatie met haar klanten op een nieuwe manier inhoud geven.
 Fleetconsultancy is een voorbeeld van een succesvolle samenwerking
 tussen service designers en game designers.”*
 
-INVOEGEN FOTO’S SCANIA
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/scania.jpg "Scania Fleetconsultancy") INVOEGEN FOTO’S SCANIA
 
 **Scania Fleetconsultancy**
-
 Scania truck en feedbacksysteem gericht op duurzamer rijgedrag van
 chauffeurs.
-
 Met dank aan Scania, Ideate en CGI
 
 **Overgang naar de topsector**
@@ -1678,23 +1635,17 @@ topsectoren, het innovatienetwerk Gaming een plaats heeft gevonden in de
 topsector Creatieve Industrie. Gaming in Nederland is op weg een
 nationaal icoon te worden.” (meer info op <a href="http://gate.gameresearch.nl)*">http://gate.gameresearch.nl)*</a>
 
-INVOEGEN FOTO TNO
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Vliegsimulator.jpg "Vliegsimulator")
 
 **Vliegsimulator**
-
-Met dank aan TNO *Human Factors* Soesterberg en GATE
+*Met dank aan TNO Human Factors Soesterberg en GATE*
 
 ### 2008: Het leggen van een nieuwe fundering
 
-INVOEGEN FOTO BODW
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2008.jpg "Business of Design Week")
 
 **Business of Design Week – Fashion Soirée, Hong Kong, 10 december
 2008**
-
 *“On behalf of the Dutch Ministry of Economic Affairs, the Dutch Fashion
 Foundation and Modint Export will present an exclusive salon program in
 Hong Kong with a selection of fashion labels representing a broad
@@ -1706,7 +1657,6 @@ Markoviec, Catta Donkersloot and Claes Iversen will present their latest
 collections at the exclusive restaurant SEVVA, located in the prime
 heart of the city overlooking the Hong Kong skyline.”*
 <http://www.dutchfashionfoundation.com/images/contribute/Pressrelease-DutchFashionSoireeinHongKong.pdf>
-
 Met dank aan Dol Soon Mulder, RVO.nl
 
 **Business of Design Week**
@@ -1860,12 +1810,9 @@ weerbarstig waardoor belangrijke delen van de ambities in het water zijn
 gevallen. Binnen de topsector Creatieve Industrie komt diensteninnovatie
 terug, weliswaar gefragmenteerd.
 
-INVOEGEN FOTO SII
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Service-Innovation-en-ICT.jpg "Service Innovation and ICT: people driven, ICT empowered")
 
 **Service Innovation and ICT: people driven, ICT empowered**
-
 Met dank aan Fred Kappetijn en Carlien Roodink
 
 **Nederland als hét Europese centrum voor slimme informatie- en
@@ -1889,12 +1836,9 @@ te delen.”*[^60]
 
 ### 2009: De gele kaart, de Federatie en een internationaliseringsprogramma
 
-INVOEGEN FOTO FDCI
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/2009.jpg "Federatie Dutch Creative Industries")
 
 **Federatie Dutch Creative Industries**
-
 *“Op maandag 28 maart heeft de voorzitter van de Federatie Dutch
 Creative Industries Hedy d’Ancona het ‘Creatief Manifest’ van de
 Federatie aangeboden aan Victor van der Chijs, trekker van het Topgebied
@@ -1904,7 +1848,6 @@ centraal staan. De wens tot een betere inzet van de creatieve bedrijven,
 ook door de overheid, is de belangrijkste strekking van de boodschap van
 het ‘Creatief Manifest’.”*
 [*http://dutchcreativeindustries.nl/creatief-manifest-2011/*](http://dutchcreativeindustries.nl/creatief-manifest-2011/)
-
 Met dank aan Gerbrand Bas, FDCI
 
 De Voortgangscommissie Sleutelgebieden onder voorzitterschap van
@@ -2090,17 +2033,11 @@ process of doing business in the focus countries while the popular*
 offered valuable, visual insights into the designers’ processes and
 thinking.”* [^62]
 
-INVOEGEN FOTO FASHION
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/Fashion.jpg "Fashion") INVOEGEN FOTO FASHION
 
 **FASHION**
-
 Mode biennale Arnhem 2011
-
-*https://nl.wikipedia.org/wiki/Arnhem\_Mode\_Bi%C3%ABnnale*
-
-Fotograaf: Gerbrand Bas
+Fotograaf: Gerbrand Bas | [https://nl.wikipedia.org/wiki/Arnhem\_Mode\_Bi%C3%ABnnale](https://nl.wikipedia.org/wiki/Arnhem\_Mode\_Bi%C3%ABnnale)
 
 **Tweede brief Cultuur en Economie**
 
@@ -2129,19 +2066,16 @@ uit de Tweede Kamerbrief van 2005, zijn de volgende:
 
 -   Versterken van de digitale en fysieke infrastructuur.
 
-### 2010: Waarde van Creatie 
 
-INVOEGEN FOTO SCHETSEN SERVICE DESIGN
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/2010.jpg "Service Design in de praktijk")
 
 **Service Design in de praktijk**
-
 *“How service design and gamification helped truck drivers to make fuel
 efficient driving a habit saving thousands liters of fuel, day in, day
 out” - Een project van Ideate, Scania en CGI.*
-
 Met dank aan Onno van de Veen, Zeeno
+
+### 2010: Waarde van Creatie 
 
 Na de ontwikkeling van het diensteninnovatieprogramma SII is in nauwe
 afstemming met het ministerie van EZ sinds medio 2009 en 2010 gewerkt
@@ -2240,12 +2174,9 @@ kabinet een nieuw plan zou willen.”*
 
 ### 2011: FES CRISP en FES COMMIT 
 
-INVOEGEN FOTO’S CRISP PROJECT STS
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/2011.jpg "CRISP")
 
 **CRISP**
-
 *“CRISP Smart Textile Services is about the development of successful
 methods, platforms, guiding principles and the business models required
 to understand the multi-disciplinary opportunities and challenges of
@@ -2321,9 +2252,7 @@ geen sinecure geweest. Iets wat met een succesvol programma snel
 vergeten wordt, maar te meer laat zien dat de investeringen met de
 FES-middelen veel hebben opgeleverd en om structurele opvolging vragen.
 
-INVOEGEN FOTO COMMIT PROJECT SWEET
-
-BIJSCHRIFT
+![](imgs/resized-jpg/Crowd-emotion-monitor.jpg "Crowd Emotion Monitor")
 
 **Crowd Emotion Monitor** -  SWEET, which was developed in the context
 of COMMIT, is a software tool combining state-of-the-art sensing, event
@@ -2331,7 +2260,6 @@ processing, reasoning and data communication technologies. The result of
 this development is a Crowd Emotion Monitor, an application that is able
 to assess the behavior and emotion of groups of people and relay that
 information to stakeholders.
-
 Met dank aan Noldus information Technology.
 
 Van sleutelgebied tot topsector 
@@ -2346,12 +2274,9 @@ voor Kennis en Innovatie CLICKNL, afgekort TKI CLICKNL.
 
 ### 2011: Topsector, topteam en Dutch Creative Council
 
-INVOEGEN FOTO DE CEUVEL
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/2011b.jpg "Ceuvel") INVOEGEN FOTO DE CEUVEL
 
 **De Ceuvel**
-
 *“De Ceuvel is a planned workplace for creative and social enterprises
 adjacent to the van Hasselt kanaal off the river IJ in Amsterdam North.
 The former industrial plot will be turned into the most unique and
@@ -2362,7 +2287,6 @@ landscape of soil-cleaning plants. Each of the upgraded boats will house
 offices, ateliers, or workshops for creative and social enterprises. The
 plan also includes a public restaurant, Ceuvel Café, and a bed &
 breakfast.”* [*http://deceuvel.nl*](http://deceuvel.nl)
-
 Fotograaf: Maarten Pedroli, Dutch Creative Residency Netwerk
 
 **Topsectoren**
@@ -2377,11 +2301,7 @@ worden per topsector afspraken vastgelegd over gezamenlijke
 investeringen en publiek-private samenwerking in onderzoek en
 ontwikkeling.
 
-INVOEGEN VISUALISATIE TOPSECTOREN
-
-BIJSCHRIFT
-
-Negen topsectoren ter versterking van de Nederlandse economie
+![](imgs/Infographics/Negen-topsectoren-v2.jpg "Negen topsectoren ter versterking van de Nederlandse economie")
 
 **Topteam**
 
@@ -2398,11 +2318,7 @@ creatie. Op basis van de evaluatie door het topteam Creatieve Industrie
 over de periode 2011-2013 wordt hieronder een update geschetst van de
 verschillende agendaonderdelen[^65].
 
-INVOEGEN VISUALISATIE TAAKVELDEN TOPTEAM
-
-BIJSCHRIFT
-
-Agenda topteam Creatieve Industrie
+![](imgs/Infographics/Agenda topteam creatieve industrie - pagina 85 van het boek.jpg "Agenda topteam Creatieve Industrie")
 
 *Human capital*: Bij dit agendaonderdeel is de ambitie om creatief
 talent zodanig op te kunnen leiden en faciliteren dat men tot de
@@ -2488,9 +2404,7 @@ overtuiging dat naast overheid, kennisinstellingen en (creatief)
 bedrijfsleven, als vierde partij opdrachtgevers nodig zijn in het verder
 ontwikkelen van de sector.*
 
-INVOEGEN VISUALISATIE IT4TT
-
-BIJSCHRIFT
+![](imgs/Infographics/It takes 4 tot tango - pagina 87 van het boek.jpg "It takes 4 to tango")
 
 It takes 4 to tango
 
@@ -2508,9 +2422,7 @@ ICT. Gezamenlijk is een Strategische Research en Innovatieagenda
 ontwikkeld welke fungeert als baken voor de verschillende activiteiten,
 waaronder onderzoeksprogramma’s, innovatieregelingen en cross-overs.
 
-INVOEGEN VISUALISATIE TKI CLICKNL – 6 CLICKNL NETWERKEN
-
-BIJSCHRIFT
+![](imgs/Infographics/TKI-CLICKNL-en-zes-netwerken-v2.jpg "TKI CLICKNL en de zes CLICKNL Netwerken")
 
 TKI CLICKNL en de zes CLICKNL Netwerken
 
@@ -2600,12 +2512,9 @@ TKI CLICKNL, voor het onderwerp kennis en innovatie.
 
 ### 2012: De geboorte van TKI CLICKNL: van muiterij tot een innovatiecontract
 
-INVOEGEN FOTO VILLA 4.0
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/2012.jpg "Villa 4.0, Dick van Gameren")
 
 **Villa 4.0, Dick van Gameren**
-
 *“Dutch architect* [**Dick van Gameren**](http://www.vangameren.com/)
 *has converted a family house outside Hilversum by punching three
 faceted skylights through the roof and driving a corridor through the
@@ -2614,7 +2523,6 @@ major rebuilding of the single-storey house, which was built in the
 sixties and which has a plan based on hexagons. The design received the
 BNA building of the year award 2012”. Dick van Gameren is currently
 partner at Mecanoo Architects. Photo: Dick van Gameren Architecten.*
-
 [**http://www.mecanoo.nl/Projects/project/74/Villa-4-0?t=0**](http://www.dezeen.com/2011/07/20/villa-4-0-by-dick-van-gameren/)
 
 Een belangrijk onderdeel van het topsectorenbeleid zijn de TKI’s, de
@@ -2880,12 +2788,9 @@ alle onderzoekpartners, zoals dit in Europa reeds wordt gedaan, is een
 kritische succesfactor voor de stimulering van onderzoek naar de Built
 Environment.”*
 
-INVOEGEN FOTO DUOB
+![](imgs/resized-bijphotos/Dienst-Uitvoering-Onderwijs-en-Belastingdienst-Groningen.jpg "Dienst Uitvoering Onderwijs & Belastingdienst, Groningen")
 
-BIJSCHRIFT
-
-**Dienst Uitvoering Onderwijs & Belastingdienst, Groningen **
-
+**Dienst Uitvoering Onderwijs & Belastingdienst, Groningen**
 Fotograaf: Ronald Tilleman
 
 **CLICKNL | Next Fashion**
@@ -3031,12 +2936,9 @@ enkele thema’s voor Nederland uit te werken. Doel daarbij is om rond de
 thema’s meer samenhang te creëren waaruit vernieuwende projecten
 voortkomen.”*
 
-INVOEGEN FOTO RETRO GAME
-
-BIJSCHRIFT
+![](imgs/resized-bijphotos/Retro-game-experience-in-Beeld-en-Geluid.jpg "Retro Game Experience in Beeld en Geluid")
 
 **Retro Game Experience in Beeld en Geluid**
-
 *“Pong, Space Invaders, Pac-Man, Donkey Kong en Mario Bros. Deze en nog
 veel meer gameklassiekers zijn drie dagen lang te zien én te spelen
 tijdens de tweede editie van de Retro Game Experience bij Beeld en
@@ -3044,9 +2946,7 @@ Geluid. Op vrijdag 12, zaterdag 13 en zondag 14 september verandert het
 hele instituut in een compleet retro game-paradijs met enorme aantallen
 consoles, home computers en een grote collectie klassieke
 arcadekasten.”*
-
-<http://pers.beeldengeluid.nl/84176-retro-game-experience-in-beeld-en-geluid>
-
+[http://pers.beeldengeluid.nl/84176-retro-game-experience-in-beeld-en-geluid](http://pers.beeldengeluid.nl/84176-retro-game-experience-in-beeld-en-geluid)
 Met dank aan Johan Oomen, Beeld & Geluid
 
 **Creatieve industrie en de regio**
