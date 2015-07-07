@@ -1169,7 +1169,7 @@ samenwerking in het ontstaan van het diensteninnovatieprogrammavoorstel
 er voor gezorgd dat de creatieve industrie vast aan tafel kwam in de
 ‘nieuwe industriepolitiek’.
 
-![](imgs/resized-bijphotos/Het-hart-van-de-Nederlandse-politiek.jpg "Het hart van de Nederlandse politiek")
+![](imgs/resized-bijfotos/Het-hart-van-de-Nederlandse-politiek.jpg "Het hart van de Nederlandse politiek")
 
 **Het hart van de Nederlandse politiek**
 In 2003 is het Innovatieplatform van start gegaan, als opmaat voor de
@@ -1232,7 +1232,7 @@ Creatieve Vermogen’ van de ministeries van EZ en OCW uit 2005.
 
 **CATCH**
 
-![](imgs/resized-bijphotos/Catch.jpg "Catch")
+![](imgs/resized-bijfotos/Catch.jpg "Catch")
 
 **CATCH**
 “*Digitale innovatie voor het culturele erfgoed*”
@@ -1575,7 +1575,7 @@ relatie met haar klanten op een nieuwe manier inhoud geven.
 Fleetconsultancy is een voorbeeld van een succesvolle samenwerking
 tussen service designers en game designers.”*
 
-![](imgs/resized-bijphotos/scania.jpg "Scania Fleetconsultancy")
+![](imgs/resized-bijftos/scania.jpg "Scania Fleetconsultancy")
 
 **Scania Fleetconsultancy**
 Scania truck en feedbacksysteem gericht op duurzamer rijgedrag van
@@ -1858,7 +1858,7 @@ te delen.”*[^60]
 
 ### 2009: De gele kaart, de Federatie en een internationaliseringsprogramma
 
-![](imgs/resized-bijphotos/2009.jpg "Federatie Dutch Creative Industries")
+![](imgs/resized-bijfotos/2009.jpg "Federatie Dutch Creative Industries")
 
 **Federatie Dutch Creative Industries**
 *“Op maandag 28 maart heeft de voorzitter van de Federatie Dutch
@@ -2055,7 +2055,7 @@ process of doing business in the focus countries while the popular*
 offered valuable, visual insights into the designers’ processes and
 thinking.”* [^62]
 
-![](imgs/resized-bijphotos/Fashion.jpg "Fashion")
+![](imgs/resized-bijfotos/Fashion.jpg "Fashion")
 
 **FASHION**
 Mode biennale Arnhem 2011
@@ -2089,7 +2089,7 @@ uit de Tweede Kamerbrief van 2005, zijn de volgende:
 -   Versterken van de digitale en fysieke infrastructuur.
 
 
-![](imgs/resized-bijphotos/2010.jpg "Service Design in de praktijk")
+![](imgs/resized-bijfotos/2010.jpg "Service Design in de praktijk")
 
 **Service Design in de praktijk**
 *“How service design and gamification helped truck drivers to make fuel
@@ -2196,7 +2196,7 @@ kabinet een nieuw plan zou willen.”*
 
 ### 2011: FES CRISP en FES COMMIT 
 
-![](imgs/resized-bijphotos/2011.jpg "CRISP")
+![](imgs/resized-bijfotos/2011.jpg "CRISP")
 
 **CRISP**
 *“CRISP Smart Textile Services is about the development of successful
@@ -2296,7 +2296,7 @@ voor Kennis en Innovatie CLICKNL, afgekort TKI CLICKNL.
 
 ### 2011: Topsector, topteam en Dutch Creative Council
 
-![](imgs/resized-bijphotos/2011b.jpg "Ceuvel")
+![](imgs/resized-bijfotos/2011b.jpg "Ceuvel")
 
 **De Ceuvel**
 *“De Ceuvel is a planned workplace for creative and social enterprises
@@ -2534,7 +2534,7 @@ TKI CLICKNL, voor het onderwerp kennis en innovatie.
 
 ### 2012: De geboorte van TKI CLICKNL: van muiterij tot een innovatiecontract
 
-![](imgs/resized-bijphotos/2012.jpg "Villa 4.0, Dick van Gameren")
+![](imgs/resized-bijfotos/2012.jpg "Villa 4.0, Dick van Gameren")
 
 **Villa 4.0, Dick van Gameren**
 *“Dutch architect* [**Dick van Gameren**](http://www.vangameren.com/)
@@ -2810,7 +2810,7 @@ alle onderzoekpartners, zoals dit in Europa reeds wordt gedaan, is een
 kritische succesfactor voor de stimulering van onderzoek naar de Built
 Environment.”*
 
-![](imgs/resized-bijphotos/Dienst-Uitvoering-Onderwijs-en-Belastingdienst-Groningen.jpg "Dienst Uitvoering Onderwijs & Belastingdienst, Groningen")
+![](imgs/resized-bijfotos/Dienst-Uitvoering-Onderwijs-en-Belastingdienst-Groningen.jpg "Dienst Uitvoering Onderwijs & Belastingdienst, Groningen")
 
 **Dienst Uitvoering Onderwijs & Belastingdienst, Groningen**
 Fotograaf: Ronald Tilleman
@@ -2958,7 +2958,7 @@ enkele thema’s voor Nederland uit te werken. Doel daarbij is om rond de
 thema’s meer samenhang te creëren waaruit vernieuwende projecten
 voortkomen.”*
 
-![](imgs/resized-bijphotos/Retro-game-experience-in-Beeld-en-Geluid.jpg "Retro Game Experience in Beeld en Geluid")
+![](imgs/resized-bijfotos/Retro-game-experience-in-Beeld-en-Geluid.jpg "Retro Game Experience in Beeld en Geluid")
 
 **Retro Game Experience in Beeld en Geluid**
 *“Pong, Space Invaders, Pac-Man, Donkey Kong en Mario Bros. Deze en nog
@@ -3321,7 +3321,7 @@ onderzoeksonderwerp.
 
 ### 2013: Een grillig jaar en kafkaiaanse situaties
 
-![](imgs/resized-bijphotos/2013.jpg "3D printing")
+![](imgs/resized-bijfotos/2013.jpg "3D printing")
 
 **3D printing**
 *“Tijdens PICNIC'10 stonden drie verschillende 3D printers opgesteld in
@@ -3610,7 +3610,7 @@ Overzicht instrumenten en regelingen
 
 ### 2014: Cross-overs
 
-![](imgs/resized-bijphotos/2014.jpg "Automatische paspoortcontrole Schiphol")
+![](imgs/resized-bijfotos/2014.jpg "Automatische paspoortcontrole Schiphol")
 
 **Automatische paspoortcontrole Schiphol**
 
@@ -3735,8 +3735,8 @@ van de concrete projecten op locaties van de betrokken vijf gemeenten.
 
 **Create Health**
 
-![](imgs/resized-bijphotos/ABCDEsim-1.png "ABCDESIM")
-![](imgs/resized-bijphotos/abcdeSIM-2.png "abcdeSIM") INVOEGEN FOTO abcdeSIM
+![](imgs/resized-bijfotos/ABCDEsim-1.png "ABCDESIM")
+![](imgs/resized-bijfotos/abcdeSIM-2.png "abcdeSIM") INVOEGEN FOTO abcdeSIM
 
 **abcdeSIM**
 
@@ -3836,7 +3836,7 @@ stad Utrecht via de Economic Board Utrecht), kennisinstellingen
 (waaronder TNO) en het bedrijfsleven, is de ambitie te groeien naar een
 markt ter waarde van ruim 10 miljard euro in 2015[^92].
 
-![](imgs/resized-bijphotos/Moodbot.tif "Moodboot")
+![](imgs/resized-bijfotos/Moodbot.tif "Moodboot")
 
 **Moodbot**
 Moodbot werkt als een interactieve coach, die mensen met een
@@ -3904,16 +3904,12 @@ kan geven.”*
 
 ### 2015 Stand van zaken en toekomst CLICKNL in het bredere creatieve landschap
 
-INVOEGEN FOTO METRO
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2015.jpg "Renovatie Metro Oostlijn Amsterdam")
 
 **Renovatie Metro Oostlijn Amsterdam**
-
 Een samenwerking tussen architecten en ontwerpers: hoe de Metro Oostlijn
 zodanig in te richten dat gebruikers zich prettig en veilig voelen, maar
 ook snel hun weg kunnen vinden.
-
 Met dank aan Renovatie Metro Oostlijn en Groep A / Fabrique
 
 #### Stand van zaken
@@ -4024,10 +4020,10 @@ bouwt voort op bestaande relaties, onder andere in programma’s zoals FES
 CRISP. Daarnaast worden nieuwe relaties aangeboord en aangehaakt, al dan
 niet langs de lijn van de CLICKNL cross-overs.
 
-INVOEGEN VISUALISATIE RESULTATEN NWO EN RVO (MIT) EN RVO (TKI) EN
-CONCLUSIES CIJFERS
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 
 CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015
 
@@ -4233,9 +4229,7 @@ creatief MKB niet altijd helder waar men met welke vraag terecht kan.
 Aan het topteam de schone taak hier de komende periode nog in te
 regisseren!
 
-INVOEGEN VISUALISATIE STAKEHOLDERS CREATIEVE LANDSCHAP
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Stakeholders-in-het-creatieve-landschap.png "Stakeholders in het creatieve landschap")
 
 Stakeholders in het creatieve landschap
 
@@ -4276,9 +4270,7 @@ voorbeelden zoals Airbnb en UberPop, waarbij de uitdaging is meer in
 kansen te kijken, naast risicobeheersing: ‘Doelregelgeving’, het sturen
 op hoofdlijnen in plaats van details.*
 
-INVOEGEN FOTO TAXI PLUS APP MEVROUW
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Innoveren-in-de-wereld-van-taxivervoer.jpg "Innoveren in de wereld van taxivervoer")
 
 **Innoveren in de wereld van taxivervoer**
 
