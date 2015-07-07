@@ -45,7 +45,7 @@ Mede mogelijk gemaakt door:
 
 Eerste druk, augustus 2015
 
-ISBN: 978-90-821753-1-8
+ISBN: 978-90-821753-2-5
 
 <p style="page-break-after:always;"></p>
 <br/><br/>
@@ -1147,7 +1147,7 @@ samenwerking in het ontstaan van het diensteninnovatieprogrammavoorstel
 er voor gezorgd dat de creatieve industrie vast aan tafel kwam in de
 ‘nieuwe industriepolitiek’.
 
-![](imgs/resized-bijphotos/Het-hart-van-de-Nederlandse-politiek.jpg "Het hart van de Nederlandse politiek")
+![](imgs/resized-bijfotos/Het-hart-van-de-Nederlandse-politiek.jpg "Het hart van de Nederlandse politiek")
 
 **Het hart van de Nederlandse politiek**
 In 2003 is het Innovatieplatform van start gegaan, als opmaat voor de
@@ -1210,7 +1210,7 @@ Creatieve Vermogen’ van de ministeries van EZ en OCW uit 2005.
 
 **CATCH**
 
-![](imgs/resized-bijphotos/Catch.jpg "Catch")
+![](imgs/resized-bijfotos/Catch.jpg "Catch")
 
 **CATCH**
 “*Digitale innovatie voor het culturele erfgoed*”
@@ -1400,7 +1400,7 @@ programma’s.
 
 ### 2007: IIP/Create en FES GATE 
 
-![](imgs/resized-bijfotos/2007.jpg "Scottie") INVOEGEN FOTO SCOTTIE
+![](imgs/resized-bijfotos/2007.jpg "Scottie")
 
 **Scottie**
 *“Scottie is een interactieve spelvorm voor kinderen die noodgedwongen
@@ -1553,7 +1553,7 @@ relatie met haar klanten op een nieuwe manier inhoud geven.
 Fleetconsultancy is een voorbeeld van een succesvolle samenwerking
 tussen service designers en game designers.”*
 
-![](imgs/resized-bijphotos/scania.jpg "Scania Fleetconsultancy") INVOEGEN FOTO’S SCANIA
+![](imgs/resized-bijfotos/scania.jpg "Scania Fleetconsultancy")
 
 **Scania Fleetconsultancy**
 Scania truck en feedbacksysteem gericht op duurzamer rijgedrag van
@@ -1836,7 +1836,7 @@ te delen.”*[^60]
 
 ### 2009: De gele kaart, de Federatie en een internationaliseringsprogramma
 
-![](imgs/resized-bijphotos/2009.jpg "Federatie Dutch Creative Industries")
+![](imgs/resized-bijfotos/2009.jpg "Federatie Dutch Creative Industries")
 
 **Federatie Dutch Creative Industries**
 *“Op maandag 28 maart heeft de voorzitter van de Federatie Dutch
@@ -2033,7 +2033,7 @@ process of doing business in the focus countries while the popular*
 offered valuable, visual insights into the designers’ processes and
 thinking.”* [^62]
 
-![](imgs/resized-bijphotos/Fashion.jpg "Fashion") INVOEGEN FOTO FASHION
+![](imgs/resized-bijfotos/Fashion.jpg "Fashion")
 
 **FASHION**
 Mode biennale Arnhem 2011
@@ -2067,7 +2067,7 @@ uit de Tweede Kamerbrief van 2005, zijn de volgende:
 -   Versterken van de digitale en fysieke infrastructuur.
 
 
-![](imgs/resized-bijphotos/2010.jpg "Service Design in de praktijk")
+![](imgs/resized-bijfotos/2010.jpg "Service Design in de praktijk")
 
 **Service Design in de praktijk**
 *“How service design and gamification helped truck drivers to make fuel
@@ -2174,7 +2174,7 @@ kabinet een nieuw plan zou willen.”*
 
 ### 2011: FES CRISP en FES COMMIT 
 
-![](imgs/resized-bijphotos/2011.jpg "CRISP")
+![](imgs/resized-bijfotos/2011.jpg "CRISP")
 
 **CRISP**
 *“CRISP Smart Textile Services is about the development of successful
@@ -2252,7 +2252,7 @@ geen sinecure geweest. Iets wat met een succesvol programma snel
 vergeten wordt, maar te meer laat zien dat de investeringen met de
 FES-middelen veel hebben opgeleverd en om structurele opvolging vragen.
 
-![](imgs/resized-jpg/Crowd-emotion-monitor.jpg "Crowd Emotion Monitor")
+![](imgs/resized-bijfotos/Crowd-emotion-monitor.jpg "Crowd Emotion Monitor")
 
 **Crowd Emotion Monitor** -  SWEET, which was developed in the context
 of COMMIT, is a software tool combining state-of-the-art sensing, event
@@ -2274,7 +2274,7 @@ voor Kennis en Innovatie CLICKNL, afgekort TKI CLICKNL.
 
 ### 2011: Topsector, topteam en Dutch Creative Council
 
-![](imgs/resized-bijphotos/2011b.jpg "Ceuvel") INVOEGEN FOTO DE CEUVEL
+![](imgs/resized-bijfotos/2011b.jpg "Ceuvel")
 
 **De Ceuvel**
 *“De Ceuvel is a planned workplace for creative and social enterprises
@@ -2512,7 +2512,7 @@ TKI CLICKNL, voor het onderwerp kennis en innovatie.
 
 ### 2012: De geboorte van TKI CLICKNL: van muiterij tot een innovatiecontract
 
-![](imgs/resized-bijphotos/2012.jpg "Villa 4.0, Dick van Gameren")
+![](imgs/resized-bijfotos/2012.jpg "Villa 4.0, Dick van Gameren")
 
 **Villa 4.0, Dick van Gameren**
 *“Dutch architect* [**Dick van Gameren**](http://www.vangameren.com/)
@@ -2788,7 +2788,7 @@ alle onderzoekpartners, zoals dit in Europa reeds wordt gedaan, is een
 kritische succesfactor voor de stimulering van onderzoek naar de Built
 Environment.”*
 
-![](imgs/resized-bijphotos/Dienst-Uitvoering-Onderwijs-en-Belastingdienst-Groningen.jpg "Dienst Uitvoering Onderwijs & Belastingdienst, Groningen")
+![](imgs/resized-bijfotos/Dienst-Uitvoering-Onderwijs-en-Belastingdienst-Groningen.jpg "Dienst Uitvoering Onderwijs & Belastingdienst, Groningen")
 
 **Dienst Uitvoering Onderwijs & Belastingdienst, Groningen**
 Fotograaf: Ronald Tilleman
@@ -2936,7 +2936,7 @@ enkele thema’s voor Nederland uit te werken. Doel daarbij is om rond de
 thema’s meer samenhang te creëren waaruit vernieuwende projecten
 voortkomen.”*
 
-![](imgs/resized-bijphotos/Retro-game-experience-in-Beeld-en-Geluid.jpg "Retro Game Experience in Beeld en Geluid")
+![](imgs/resized-bijfotos/Retro-game-experience-in-Beeld-en-Geluid.jpg "Retro Game Experience in Beeld en Geluid")
 
 **Retro Game Experience in Beeld en Geluid**
 *“Pong, Space Invaders, Pac-Man, Donkey Kong en Mario Bros. Deze en nog
@@ -3020,9 +3020,7 @@ Netwerken representeren. Daarnaast wordt de relatie met de Europese
 *societal challenges* gelegd, alsmede met vijf *creative industries
 research areas*: inhoudelijke onderzoeksvraagstukken.
 
-INVOEGEN VISUALISATIE KIA
-
-BIJSCHRIFT
+[](images/Infographics/Illustratie-programmatische-invulling-pagina-105-van-het-boek.jpg "Kennis en innovatieagenda CLICKNL")
 
 Kennis- en innovatieagenda CLICKNL[^72]
 
@@ -3041,9 +3039,7 @@ research area* is in dit voorbeeld Smart Society, waarbij onderzoek
 wordt gedaan naar slimme e-health-oplossingen en gamificationconcepten
 in relatie tot dementie en langer zelfstandig kunnen functioneren.
 
-INVOEGEN VISUALISATIE INVULLING KIA
-
-BIJSCHRIFT
+![](imgs/Infographics/Kennis en innovatieagenda CLICKNL - pagina 105 van het boek.jpg "Illustratie van programmatische invulling")
 
 Illustratie van programmatische invulling van onderdelen van de KIA met
 een programma over langer zelfstandig functioneren met dementie, waarbij
@@ -3156,9 +3152,7 @@ strategische en embedded research-projecten. Bij deze ruim 100
 onderzoeksprojecten zijn meer dan 200 bedrijven als partner in consortia
 betrokken[^77].
 
-INVOEGEN VISUALISATIE KERNCIJFERS NWO EN TNO
-
-BIJSCHRIFT
+![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "Kerncijfers creatieve industrie NWO en TNO")
 
 Kerncijfers creatieve industrie NWO en TNO, periode 2012-2014
 
@@ -3305,18 +3299,13 @@ onderzoeksonderwerp.
 
 ### 2013: Een grillig jaar en kafkaiaanse situaties
 
-INVOEGEN FOTO 3D PRINTING
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2013.jpg "3D printing")
 
 **3D printing**
-
 *“Tijdens PICNIC'10 stonden drie verschillende 3D printers opgesteld in
 het (Un)limited Design Lab op 23 september: de RepRap, de MakerBot en de
 Ultimaker.”*
-
 Fotografie: Marco Baiwir
-
 Met dank aan Waag Society
 
 De praktijk van uitvoering van de plannen is weerbarstig gebleken. Er is
@@ -3427,9 +3416,7 @@ creatieve industrie. Met IPC-projecten kunnen MKB-consortia gevormd
 worden die samenwerken aan een meerjarig innovatietraject in dezelfde
 keten, branche of regio.
 
-INVOEGEN VISUALISATIE RVO (MIT CIJFERS)
-
-BIJSCHRIFT
+![](imgs/Infographics/Kerncijfers MIT 2013 en 2014 - pagina 116 van het boek.jpg "Kerncijfers MIT 2013 en 2014")
 
 Kerncijfers MIT 2013 en 2014
 
@@ -3527,9 +3514,7 @@ komende jaren verder blijft groeien. Op deze manier kan het vliegwiel
 echt gaan werken, waarbij op basis van nieuw onderzoek (gefinancierd met
 TKI-toeslag) weer nieuwe TKI-toeslag wordt gegenereerd.
 
-INVOEGEN VISUALISATIE RVO (TKI-REGELING)
-
-BIJSCHRIFT
+![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "Kerncijfers TKI-toeslag 2013-2015")
 
 Kerncijfers TKI-toeslag 2013-2015
 
@@ -3597,15 +3582,13 @@ in samenwerking met TNO[^86]. Zo begint het wiel steeds harder te
 draaien waarbij de inzet van TKI-gelden moet gaan leiden tot nieuwe
 TKI-toeslag.
 
-INVOEGEN VISUALISATIE RELEVANTE REGELINGEN VOOR KENNIS EN INNOVATIE
-
-BIJSCHRIFT
+![](imgs/Infographics/Overzichten instrumenten en regelingen  - pagina 120 van het boek.jpg "Overzicht instrumenten en regelingen")
 
 Overzicht instrumenten en regelingen
 
 ### 2014: Cross-overs
 
-JAAROPENING FOTO
+![](imgs/resized-bijfotos/2014.jpg "Automatische paspoortcontrole Schiphol")
 
 **Automatische paspoortcontrole Schiphol**
 
@@ -3730,9 +3713,8 @@ van de concrete projecten op locaties van de betrokken vijf gemeenten.
 
 **Create Health**
 
-INVOEGEN FOTO abcdeSIM
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/ABCDEsim-1.png "ABCDESIM")
+![](imgs/resized-bijfotos/abcdeSIM-2.png "abcdeSIM") INVOEGEN FOTO abcdeSIM
 
 **abcdeSIM**
 
@@ -3832,12 +3814,9 @@ stad Utrecht via de Economic Board Utrecht), kennisinstellingen
 (waaronder TNO) en het bedrijfsleven, is de ambitie te groeien naar een
 markt ter waarde van ruim 10 miljard euro in 2015[^92].
 
-INVOEGEN FOTO MOODBOT
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Moodbot.tif "Moodboot")
 
 **Moodbot**
-
 Moodbot werkt als een interactieve coach, die mensen met een
 psychiatrische aandoening aanspoort signalen van terugval te noteren.
 Dagelijks wordt naar de stemming van dat moment gevraagd en worden
@@ -3846,9 +3825,7 @@ te bezoeken, zodat een netwerkfunctie ontstaat. Door het spelen van de
 game krijgt de cliënt meer inzicht in het eigen herstelproces en ervaart
 zo ook meer eigen regie. Uiteindelijk komt Moodbot ook beschikbaar voor
 dierbaren van cliënten, zodat zij kunnen helpen signaleren.
-
 Afbeelding: **©**Altrecht/HKU, stichting Moodbot
-
 Met dank aan Mir Wermuth, Growing Games
 
 **Growing Games**
@@ -3905,16 +3882,12 @@ kan geven.”*
 
 ### 2015 Stand van zaken en toekomst CLICKNL in het bredere creatieve landschap
 
-INVOEGEN FOTO METRO
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/2015.jpg "Renovatie Metro Oostlijn Amsterdam")
 
 **Renovatie Metro Oostlijn Amsterdam**
-
 Een samenwerking tussen architecten en ontwerpers: hoe de Metro Oostlijn
 zodanig in te richten dat gebruikers zich prettig en veilig voelen, maar
 ook snel hun weg kunnen vinden.
-
 Met dank aan Renovatie Metro Oostlijn en Groep A / Fabrique
 
 #### Stand van zaken
@@ -4025,10 +3998,10 @@ bouwt voort op bestaande relaties, onder andere in programma’s zoals FES
 CRISP. Daarnaast worden nieuwe relaties aangeboord en aangehaakt, al dan
 niet langs de lijn van de CLICKNL cross-overs.
 
-INVOEGEN VISUALISATIE RESULTATEN NWO EN RVO (MIT) EN RVO (TKI) EN
-CONCLUSIES CIJFERS
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Kerncijfers-MIT-2013-en-2014.png "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 
 CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015
 
@@ -4234,9 +4207,7 @@ creatief MKB niet altijd helder waar men met welke vraag terecht kan.
 Aan het topteam de schone taak hier de komende periode nog in te
 regisseren!
 
-INVOEGEN VISUALISATIE STAKEHOLDERS CREATIEVE LANDSCHAP
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Stakeholders-in-het-creatieve-landschap.png "Stakeholders in het creatieve landschap")
 
 Stakeholders in het creatieve landschap
 
@@ -4277,9 +4248,7 @@ voorbeelden zoals Airbnb en UberPop, waarbij de uitdaging is meer in
 kansen te kijken, naast risicobeheersing: ‘Doelregelgeving’, het sturen
 op hoofdlijnen in plaats van details.*
 
-INVOEGEN FOTO TAXI PLUS APP MEVROUW
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Innoveren-in-de-wereld-van-taxivervoer.jpg "Innoveren in de wereld van taxivervoer")
 
 **Innoveren in de wereld van taxivervoer**
 
@@ -4461,9 +4430,7 @@ scoorde laag op ervaring met publiek-private samenwerking (PPS). De
 andere topsectoren scoorden allemaal gemiddeld tot hoog op alle
 onderdelen.
 
-INVOEGEN TABEL RATHENAU INSTITUUT
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Coordinatieproblemen-per-topsector-vrij-overgenomen-van-Rathenau-Instituut.png "Coördinatieproblemen per topsector, vrij overgenomen van Rathenau Instituut")
 
 ‘Coördinatieproblemen per topsector’, vrij overgenomen van Rathenau
 Instituut[^100]
@@ -4536,11 +4503,8 @@ topsectoren. In de periode 2010–2012 volgde de ontwikkeling van de
 topsectoren grotendeels de trend van de Nederlandse economie, alleen de
 productie nam met een stijging van 11% bovengemiddeld toe.”* [^103]
 
-INVOEGEN VISUALISATIE CBS CIJFERS 2012
+![](imgs/resized-bijfotos/CBS-Cijfers-Topsectoren-2012.png "CBS-cijfers topsectoren 2012") INVOEGEN VISUALISATIE CBS CIJFERS 2012
 
-BIJSCHRIFT
-
-CBS-cijfers topsectoren 2012
 
 In de Monitor Bedrijvenbeleid 2014 van het ministerie van EZ komen de
 topsectoren terug in relatie tot de TKI-regeling en de realisatie van
@@ -7302,7 +7266,7 @@ Wmo Wet maatschappelijke ondersteuning
 
 ZWV Zorgverzekeringswet
 
-# Referenties
+
 
 [^1]: <https://www.globalinnovationindex.org/content.aspx?page=data-analysis>
 

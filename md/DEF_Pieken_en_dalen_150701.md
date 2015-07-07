@@ -1575,7 +1575,7 @@ relatie met haar klanten op een nieuwe manier inhoud geven.
 Fleetconsultancy is een voorbeeld van een succesvolle samenwerking
 tussen service designers en game designers.”*
 
-![](imgs/resized-bijftos/scania.jpg "Scania Fleetconsultancy")
+![](imgs/resized-bijfotos/scania.jpg "Scania Fleetconsultancy")
 
 **Scania Fleetconsultancy**
 Scania truck en feedbacksysteem gericht op duurzamer rijgedrag van
@@ -2274,7 +2274,7 @@ geen sinecure geweest. Iets wat met een succesvol programma snel
 vergeten wordt, maar te meer laat zien dat de investeringen met de
 FES-middelen veel hebben opgeleverd en om structurele opvolging vragen.
 
-![](imgs/resized-jpg/Crowd-emotion-monitor.jpg "Crowd Emotion Monitor")
+![](imgs/resized-bijfotos/Crowd-emotion-monitor.jpg "Crowd Emotion Monitor")
 
 **Crowd Emotion Monitor** -  SWEET, which was developed in the context
 of COMMIT, is a software tool combining state-of-the-art sensing, event
@@ -4020,7 +4020,7 @@ bouwt voort op bestaande relaties, onder andere in programma’s zoals FES
 CRISP. Daarnaast worden nieuwe relaties aangeboord en aangehaakt, al dan
 niet langs de lijn van de CLICKNL cross-overs.
 
-![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/resized-bijfotos/Kerncijfers-MIT-2013-en-2014.png "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 ![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 ![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 ![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
@@ -4452,9 +4452,7 @@ scoorde laag op ervaring met publiek-private samenwerking (PPS). De
 andere topsectoren scoorden allemaal gemiddeld tot hoog op alle
 onderdelen.
 
-INVOEGEN TABEL RATHENAU INSTITUUT
-
-BIJSCHRIFT
+![](imgs/resized-bijfotos/Coordinatieproblemen-per-topsector-vrij-overgenomen-van-Rathenau-Instituut.png "Coördinatieproblemen per topsector, vrij overgenomen van Rathenau Instituut")
 
 ‘Coördinatieproblemen per topsector’, vrij overgenomen van Rathenau
 Instituut[^100]
@@ -4527,11 +4525,8 @@ topsectoren. In de periode 2010–2012 volgde de ontwikkeling van de
 topsectoren grotendeels de trend van de Nederlandse economie, alleen de
 productie nam met een stijging van 11% bovengemiddeld toe.”* [^103]
 
-INVOEGEN VISUALISATIE CBS CIJFERS 2012
+![](imgs/resized-bijfotos/CBS-Cijfers-Topsectoren-2012.png "CBS-cijfers topsectoren 2012") INVOEGEN VISUALISATIE CBS CIJFERS 2012
 
-BIJSCHRIFT
-
-CBS-cijfers topsectoren 2012
 
 In de Monitor Bedrijvenbeleid 2014 van het ministerie van EZ komen de
 topsectoren terug in relatie tot de TKI-regeling en de realisatie van
@@ -7293,7 +7288,7 @@ Wmo Wet maatschappelijke ondersteuning
 
 ZWV Zorgverzekeringswet
 
-# Referenties
+
 
 [^1]: <https://www.globalinnovationindex.org/content.aspx?page=data-analysis>
 
