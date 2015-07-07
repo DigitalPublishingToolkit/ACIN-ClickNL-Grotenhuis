@@ -67,7 +67,7 @@ Mede mogelijk gemaakt door:
 
 Eerste druk, augustus 2015
 
-ISBN: 978-90-821753-1-8
+ISBN: 978-90-821753-2-5
 
 <p style="page-break-after:always;"></p>
 <br/><br/>
