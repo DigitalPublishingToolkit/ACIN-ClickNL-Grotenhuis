@@ -51,21 +51,29 @@ I. [www.grotenhuisadviseert.nl](http://www.grotenhuisadviseert.nl)
 
 Tekst – F.D.J. Grotenhuis
 
-Vormgeving – Ontwerpstudio Op de Millimeter
+Vormgeving print – Ontwerpstudio Op de Millimeter
+
+Vormgeving epub - Jess van Zyl (PublishingLab)
 
 Eindredactie – Scherpe blik communicatie
 
-Productie – Digigrafi Veenendaal
+Productie print – Digigrafi Veenendaal
+
+Productie epub - Jess van Zyl (PublishingLab)
 
 Mede mogelijk gemaakt door:
 
 ![](imgs/ACIN-colofon.gif)
 
+<!--Add PublishingLab logo -->
+
+
 <br/><br/>
 
 Eerste druk, augustus 2015
 
-ISBN: 978-90-821753-2-5
+ISBN print: 978-90-821753-1-8
+ISBN eupb: 978-90-821753-2-5
 
 <p style="page-break-after:always;"></p>
 <br/><br/>
