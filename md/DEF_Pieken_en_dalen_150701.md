@@ -65,7 +65,7 @@ Mede mogelijk gemaakt door:
 
 ![](imgs/ACIN-colofon.gif)
 
-<!--Add PublishingLab logo -->
+<!--PLease add PublishingLab logo -->
 
 
 <br/><br/>
