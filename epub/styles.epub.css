@@ -70,12 +70,13 @@ h1,h2,h3,h4{
 
 h1{
     font-size:1.8em;
-    color: #E87511;
+    color: #000;
     page-break-before: always;
 }
 
 h2{
     font-size: 1.2em;
+    color: #992135;
     margin-top: 2em;
 }
 
@@ -87,6 +88,7 @@ b,strong{
 figcaption{
     font-family: 'OpenSans-Regular';
     font-size:0.8em;
+    word-break: keep-all;
 }
 
 p {
@@ -131,6 +133,7 @@ font-size: 0.5em;
 
 blockquote{
     font-family: 'SourceCodePro-Semibold';
+    color: #992135;
     padding-left: 1.5em;
     margin-left: 0px;
     border-left: 0px #647696 solid;
