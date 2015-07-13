@@ -88,7 +88,9 @@ b,strong{
 figcaption{
     font-family: 'OpenSans-Regular';
     font-size:0.8em;
+    text-align: center;
     word-break: keep-all;
+    page-break-inside: avoid;
 }
 
 p {
@@ -241,7 +243,7 @@ section.footnotes li a {
 
 table {
     width:99%;
-    border: 1px #E87511 solid;
+    border: 1px #FFB511 solid;
     border-collapse: collapse;
     vertical-align: top;
     font-size: 0.5em;
@@ -249,25 +251,26 @@ table {
 }
 
 table th {
-    border-bottom: 1px #E87511 solid;
+    border-bottom: 1px #FFB511 solid;
 }
 
 table th, td {
-    border-left: 1px #E87511 solid;
-    border-right: 1px #E87511 solid;
+    border-left: 1px #FFB511 solid;
+    border-right: 1px #FFB511 solid;
 }
 
 th, td {
     padding: 0.5em;
 }
 table .header {
-    color: #E87511;
+    color: #992135;
+    font-size: 1em;
     font-family: 'OpenSans-Regular';
 }
 
-table+p, figure+p {
-    text-align: right;
-    font-size: 0.5em;
+figure+p {
+    text-align: left;
+    font-size: 0.7em;
     font-family: 'OpenSans-Regular';
 }
 
