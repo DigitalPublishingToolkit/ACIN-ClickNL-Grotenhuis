@@ -13,6 +13,13 @@
 }
 
 @font-face{
+    font-family: 'OpenSans-Semibold';
+    font-weight: bold;
+    font-style: normal;
+    src:url('OpenSans-Semibold.otf')format("opentype");
+}
+
+@font-face{
     font-family: 'OpenSans-Light';
     font-weight: 300;
     font-style: normal;
@@ -86,7 +93,7 @@ h5{
 }
 
 b,strong{
-    font-family: 'OpenSans-Regular';
+    font-family: 'OpenSans-Semibold';
 }
 
 em {
@@ -145,6 +152,8 @@ font-size: 0.5em;
 blockquote{
     font-family: 'SourceCodePro-Semibold';
     color: #647696;
+    font-weight: bold;
+    font-style: normal;
     padding-left: 1.5em;
     margin-left: 0px;
     border-left: 0px #E87511 solid;

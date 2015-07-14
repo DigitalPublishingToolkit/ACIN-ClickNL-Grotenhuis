@@ -65,7 +65,7 @@ Mede mogelijk gemaakt door:
 
 ![](imgs/logo-ACIN.png)
 <br/><br/>
-![](imgs/logo-publishinglab-green.png)
+![](imgs/logo_publishinglab_grey.png)
 
 
 Eerste druk, augustus 2015
@@ -110,32 +110,32 @@ we see genius.
 Because the people who are crazy enough to think
 
 they can change the world, are the ones who do.”
-<br/>
+
 (Apple ‘Think Different’ reclamecampagne, 1997)
-</br>
 </blockquote>
+
 <p style="page-break-after:always;"></p>
 
 
 # Inhoudsopgave
 
-Inhoudsopgave
+<a href="ch003.xhtml">Inhoudsopgave</a>
 
-Samenvatting
+<a href="ch004.xhtml">Samenvatting</a>
 
-Voorwoord
+<a href="ch005.xhtml">Voorwoord</a>
 
-Deel I Nederland als proeftuin
+<a href="ch006.xhtml">Deel I Nederland als proeftuin</a>
 
-Nederland Kennisland
+**Nederland Kennisland**
 
-Het creëren van trends
+**Het creëren van trends**
 
-De rol van de creatieve industrie
+**De rol van de creatieve industrie**
 
-Deel II Van zaaien naar oogsten
+<a href="ch007.xhtml">Deel II Van zaaien naar oogsten</a>
 
-Wat vooraf ging
+**Wat vooraf ging**
 
 2003: Context kenniseconomie
 
@@ -145,7 +145,7 @@ Wat vooraf ging
 
 2006: Onderweg naar nieuwe samenwerkingsverbanden
 
-Van fragmentatie naar organisatie
+**Van fragmentatie naar organisatie**
 
 2007: IIP/Create en FES GATE
 
@@ -157,7 +157,7 @@ Van fragmentatie naar organisatie
 
 2011: FES CRISP en FES COMMIT
 
-Van sleutelgebied tot topsector
+**Van sleutelgebied tot topsector**
 
 2011: Topsector, topteam en Dutch Creative Council
 
@@ -171,7 +171,7 @@ innovatiecontract
 2015 Stand van zaken en toekomst CLICKNL in het bredere creatieve
 landschap
 
-Deel III De overheid als hovenier
+<a href="ch008.xhtml">Deel III De overheid als hovenier</a>
 
 Klimaatbeheersing
 
@@ -179,15 +179,14 @@ Topsectoren vergeleken
 
 Tijd voor een nieuw seizoen
 
-Perspectieven op tien jaar creatieve industrie
+<a href="ch009.xhtml">Perspectieven op tien jaar creatieve industrie</a>
 
-Perspectieven op het topsectorenbeleid
+<a href="ch010.xhtml">Perspectieven op het topsectorenbeleid</a>
 
-Dankwoord
+<a href="ch011.xhtml">Dankwoord</a>
 
-Lijst van afkortingen
+<a href="ch012.xhtml">Lijst van afkortingen</a>
 
-Referenties
 
 # Samenvatting
 
@@ -414,7 +413,7 @@ economie, technologie en cultuur*[^5]. Het organiseren en faciliteren
 van deze nieuwe combinaties vindt plaats in zogenaamde proeftuinen of
 *Living Labs*.
 
-#### Proeftuinen
+**Proeftuinen**
 
 Nederland is met haar open cultuur, tolerante houding ten opzichte van
 vernieuwing en een sterke kennis- en ICT-infrastructuur een ideale
@@ -482,7 +481,7 @@ tot een heel andere situatie kunnen leiden. Zo wordt in de Horizonscan
 2050 een langetermijnperspectief geboden voor nu nog onopgeloste grote
 maatschappelijke vraagstukken[^12].
 
-#### Technologie als driver van innovatie
+**Technologie als driver van innovatie**
 
 Naast meer generieke trends kunnen technologische trends worden
 onderscheiden, zoals NBIC (Nanotechnologie, Biotechnologie,
@@ -571,7 +570,7 @@ elektrische activiteit in de hersenen wordt gemeten[^15].
 >maatschappelijke uitdagingen.” Voor meer informatie:
 >[*www.hackthebrain.nl*](http://www.hackthebrain.nl/)
 
-#### Do-it-yourself
+**Do-it-yourself**
 
 De ontwikkelingen in technologieën, miniaturisatie en integratie,
 alsmede de toegankelijkheid hiervan, maken dat gebruikers steeds vaker
@@ -603,7 +602,7 @@ de gezondheidssector, zijn talloos. Een andere ontwikkeling, die van
 >innovation, or for profit, to start a
 >[*business*](http://en.wikipedia.org/wiki/Business).”[^17]
 
-#### Van Industrie 4.0 naar Smart Industry
+**Van Industrie 4.0 naar Smart Industry**
 
 Een andere technologische ontwikkeling is in Duitsland opgepakt als
 Industrie 4.0. Deze visie is gebaseerd op de overtuiging dat de
@@ -629,7 +628,7 @@ verder versterken van het fundament (kennis, skills en ICT-
 randvoorwaarden) zodat de smart industry ambitie in Nederland ook
 duurzaam wordt ontwikkeld[^19].
 
-#### Sociaal-maatschappelijke trends
+**Sociaal-maatschappelijke trends**
 
 Naast de meer technologische trends zijn diverse
 sociaal-maatschappelijke ontwikkelingen zichtbaar, zoals de invloed van
@@ -674,7 +673,7 @@ van databeheer in de cloud staan en vallen met ICT. De stichting
 Toekomstbeeld Techniek heeft hierover het boek *Samen slimmer: hoe de
 Wisdom of the Crowds onze samenleving zal veranderen*[^21] uitgebracht.
 
-#### Exponential organizations en nieuwe businessmodellen
+**Exponential organizations en nieuwe businessmodellen**
 
 Salim Ismail, Michael Malone en Yuri van Geest werken het fenomeen van
 de ‘exponentiële organisatie’ eind 2014 uit in hun boek *Exponential
@@ -734,7 +733,7 @@ Canvas een goed model om de waardepropositie voor de klant in kaart te
 brengen[^26]. Net als in de afgelopen eeuwen is technologie ook vandaag
 de dag een belangrijke driver van innovatie.
 
-#### Big data: kans of bedreiging?
+**Big data: kans of bedreiging?**
 
 
 ![](imgs/resized-bijfotos/Google-glass-naar-een-internet-of-things.jpg "Google Glass")
@@ -865,7 +864,7 @@ voelen, zien, dromen, maken en leren. Een pleidooi om het onderwijs, dat
 de basis vormt van toekomstige ondernemers en werknemers, op de schop te
 nemen.
 
-#### Definitie en cijfers
+**Definitie en cijfers**
 
 Zo kleurrijk en divers als de creatieve industrie is, zo veelzijdig zijn
 ook de definities. In dit boek wordt onderstaande definitie van TNO uit
@@ -1107,7 +1106,7 @@ partner, de overheid of een maatschappelijke instelling) te duiden.
 >nieuwe topsectorenbeleid, dat met dit nieuwe kabinet werd ingezet, kwam
 >de creatieve industrie als een van de negen topsectoren terug.”*
 
-# Wat vooraf ging
+## Wat vooraf ging
 
 De creatieve industrie als sleutelgebied, en later topsector, was niet
 vanzelfsprekend. Een mix van timing, toeval en personen maakte dat de
@@ -1417,7 +1416,7 @@ samenwerken langs de lijn van de A2-as van Amsterdam, via Utrecht tot
 Eindhoven. Ieder had eigen plannen op lokaal en regionaal niveau, hier
 bovenuit stijgen was geen sinecure.
 
-# Van fragmentatie naar organisatie
+## Van fragmentatie naar organisatie
 
 In de periode 2007-2011 werd met horten en stoten de fragmentatie binnen
 de creatieve industrie te lijf gegaan, met als resultaat in 2007 de
@@ -1508,20 +1507,20 @@ media en van design tot ICT). Verder had IIP/Create een klein bureau
 onder leiding van Geleyn Meijer dat de verschillende activiteiten
 coördineerde. Daarbij werden vier werkgroepen onderscheiden.
 
-> - *Werkgroep Strategische Research Agenda (SRA)*: ontwikkelde een
+> - Werkgroep Strategische Research Agenda (SRA): ontwikkelde een
 > gezamenlijke agenda voor onderzoeks- en valorisatieambities;
 >
-> - *Werkgroep Governance:* richtte zich op mogelijkheden voor
+> - Werkgroep Governance: richtte zich op mogelijkheden voor
 > inrichting en financiering van programmatische ambities, gebaseerd op
 > de SRA;
 >
-> - *Werkgroep Europa:* resulteerde uiteindelijk in participatie in twee
+> - Werkgroep Europa: resulteerde uiteindelijk in participatie in twee
 > Europese CIP-INNOVA-projecten, te weten ImMediaTe en B Creative. Ook
 > was IIP/Create *strategic member* van de Europese Digital Thinktank,
 > een gezaghebbende internationale denktank op het deelgebied van ICT en
 > creatieve industrie;
 >
-> - *Werkgroep Ways of Working:* richtte zich op vraagstukken zoals
+> - Werkgroep Ways of Working: richtte zich op vraagstukken zoals
 > intellectueel eigendom, aansluiting onderwijs en arbeidsmarkt en
 > Living Labs.
 
@@ -1891,34 +1890,35 @@ Scheepbouwer evalueerde de sleutelgebiedenaanpak en gaf een advies over
 de continuïteit hiervan:
 
 ### Gele kaart als waarschuwing
-
-*“Het Sleutelgebied Creatieve Industrie laat na vier jaar nog nauwelijks
+<blockquote>
+“Het Sleutelgebied Creatieve Industrie laat na vier jaar nog nauwelijks
 verbeteringen in de zelforganisatie en planvorming zien. Er zijn nog
-geen gezamenlijke acties uitgevoerd.*
+geen gezamenlijke acties uitgevoerd.
 
-*Dit Sleutelgebied krijgt van de Voortgangscommissie een ‘gele kaart’
-met het advies om*
+Dit Sleutelgebied krijgt van de Voortgangscommissie een ‘gele kaart’
+met het advies om
 
-*begin 2010 voortgang bereikt te hebben op 1) het vergroten van de
+begin 2010 voortgang bereikt te hebben op 1) het vergroten van de
 zelforganisatie binnen de subclusters en 2) de concrete uitvoering van
-clusterplannen.”*
+clusterplannen.”
 
-*“De organisatiestructuur in het Sleutelgebied Creatieve Industrie is
+“De organisatiestructuur in het Sleutelgebied Creatieve Industrie is
 nauwelijks ontwikkeld na ruim vier jaar. Er zijn twee overlegorganen:
 Bij IIP/Create zijn zestig tot honderd bedrijven en kennisinstellingen
 betrokken, die gezamenlijk in november 2008 een voorstel voor een
 innovatieprogramma hebben ingediend. De Club van Twaalf is een groep van
 twaalf creatieve ondernemers, die regelmatig brainstormt over ideeën die
 de creatieve industrie in Amsterdam kunnen helpen. Deze initiatieven
-zijn marginaal. *
+zijn marginaal.
 
-*De collectieve betrokkenheid in de sector is afwezig. In slechts enkele
+De collectieve betrokkenheid in de sector is afwezig. In slechts enkele
 delen van de sector zijn de eerste stappen van zelforganisatie
-waarneembaar. *
+waarneembaar.
 
-*De sector moet zich nog in 2009 organiseren om te voorkomen dat zij
+De sector moet zich nog in 2009 organiseren om te voorkomen dat zij
 conform het oordeel van de Voortgangscommissie het recht op de status
-van Sleutelgebied verliest.”* [^61]
+van Sleutelgebied verliest.”[^61]
+</blockquote>
 
 Uit bovenstaand citaat valt overigens ook te lezen dat de commissie een
 niet compleet en even juist beeld had van de organisatiegraad van de
@@ -1952,7 +1952,7 @@ cross-overs uitgebracht, in samenwerking met Syntens, PICNIC, het
 Stimuleringsfonds en TKI CLICKNL.
 
 ### Federatie Dutch Creative Industries
-
+<blockquote>
 >Bijdrage van Gerbrand Bas, secretaris Federatie Dutch Creative
 >Industries, 6 maart 2014
 
@@ -1982,17 +1982,17 @@ Stimuleringsfonds en TKI CLICKNL.
 >verder vorm krijgen, maar ondertussen is de Federatie de enige
 >georganiseerde gesprekspartner in de creatieve industrie.*
 
-*De Federatie Dutch Creative Industries vertegenwoordigt nu 8 branche-
+De Federatie Dutch Creative Industries vertegenwoordigt nu 8 branche-
 en beroepsorganisaties met in totaal meer dan 6.000 individuele leden en
 bijna 2.500 creatieve bedrijven met een gezamenlijke bijdrage aan het
-bruto nationaal product van ruim 11 miljard euro.*
+bruto nationaal product van ruim 11 miljard euro.
 
-*De Federatie is ontstaan door de inzet van twee mensen, Rob Huisman
+De Federatie is ontstaan door de inzet van twee mensen, Rob Huisman
 (toenmalig directeur van de BNO) en Gerbrand Bas (directeur van
 Designlink) die van mening waren dat de sector alleen via
 krachtenbundeling een geloofwaardige gesprekspartner zou kunnen worden
 en blijven. Er was vervolgens overigens niet veel tijd nodig om andere
->beroeps- en brancheorganisaties van dit belang te overtuigen. *
+beroeps- en brancheorganisaties van dit belang te overtuigen.
 
 >De aanvankelijke betrokkenheid van Pakhuis de Zwijger maar ook de
 >daaropvolgende gastvrijheid van de BNO bleek de positionering van de
@@ -2037,6 +2037,7 @@ en blijven. Er was vervolgens overigens niet veel tijd nodig om andere
 >Daarvoor zijn behalve de bundeling van kennis en ervaring ook veel meer
 >middelen nodig. Kansen liggen er ook buiten Nederland waar tegen deze
 >ongebruikelijke combinatie van disciplines jaloers wordt aangekeken.”
+</blockquote>
 
 #### Dutch Design, Fashion and Architecture
 
@@ -2290,7 +2291,7 @@ to assess the behavior and emotion of groups of people and relay that
 information to stakeholders.
 Met dank aan Noldus information Technology.
 
-# Van sleutelgebied tot topsector
+## Van sleutelgebied tot topsector
 
 Met het voortijdig vallen van het derde kabinet Balkenende en het
 aantreden van het eerste kabinet Rutte op 14 oktober 2010 heeft begin
@@ -2551,7 +2552,7 @@ TKI CLICKNL, voor het onderwerp kennis en innovatie.
 ![](imgs/resized-bijfotos/2012.jpg "Villa 4.0, Dick van Gameren")
 
 **Villa 4.0, Dick van Gameren**
-*“Dutch architect* [Dick van Gameren](http://www.vangameren.com/)
+“Dutch architect [Dick van Gameren](http://www.vangameren.com/)
 has converted a family house outside Hilversum by punching three
 faceted skylights through the roof and driving a corridor through the
 middle. The project has been named Villa 4.0 since this is the fourth
@@ -4768,7 +4769,7 @@ gezamenlijke raden met een drieledig advies.
 
 ### Naar een geïntegreerd beleid van EZ en OCW?
 <blockquote>
-*- “Betere afstemming realiseren tussen de relevante instrumenten van
+1. “Betere afstemming realiseren tussen de relevante instrumenten van
 innovatie-, wetenschaps- en cultuurbeleid, zodat ruimte wordt geboden
 aan de culturele, economische en maatschappelijke waarde van
 creativiteit, binnen en buiten de creatieve industrie. In concreto
@@ -4777,14 +4778,14 @@ middelen voor onderzoek in de Topsector Creatieve Industrie tot één
 logisch geheel voor de aanvragers kunnen worden gemaakt. Hierbij moet
 een gecombineerde inzet op één project ook mogelijk zijn.
 
-*- Mogelijkheden creëren om ondersteuning op maat te bieden aan
+2. Mogelijkheden creëren om ondersteuning op maat te bieden aan
 internationale ambities van de creatieve industrie, onder meer door het
 instrumentarium beter op elkaar te laten aansluiten; door samenwerking
 met andere topsectoren te vergemakkelijken; door de gebundelde inzet van
 culturele en innovatieattachés en de middelen voor culturele,
 wetenschappelijke en economische diplomatie.
 
-*- Een geïntegreerd programma ontwerpen voor wetenschappelijk,
+3. Een geïntegreerd programma ontwerpen voor wetenschappelijk,
 praktijkgericht en ontwerpend onderzoek met bijbehorend geoormerkt
 budget voor de creatieve industrie, langs de lijnen van het voorbeeld
 van de NWO-call Research through Design.”[^109]
