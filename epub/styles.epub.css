@@ -55,7 +55,7 @@ p {
 
 
 
-h1,h2,h3,h4{     
+h1,h2,h3,h4,h5{     
     font-family: 'SourceCodePro-Semibold';
     text-transform:uppercase;
     hyphens: none !important;
@@ -76,10 +76,14 @@ h1{
 
 h2{
     font-size: 1.2em;
-    color: #992135;
+    color: #E87511;
     margin-top: 2em;
 }
 
+h5{
+    font-size: 1em;
+    color: #647696;
+}
 
 b,strong{
     font-family: 'OpenSans-Regular';
@@ -87,7 +91,7 @@ b,strong{
 
 figcaption{
     font-family: 'OpenSans-Regular';
-    font-size:0.8em;
+    font-size:0.7em;
     text-align: center;
     word-break: keep-all;
     page-break-inside: avoid;
@@ -135,10 +139,10 @@ font-size: 0.5em;
 
 blockquote{
     font-family: 'SourceCodePro-Semibold';
-    color: #992135;
+    color: #647696;
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 0px #647696 solid;
+    border-left: 0px #E87511 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
