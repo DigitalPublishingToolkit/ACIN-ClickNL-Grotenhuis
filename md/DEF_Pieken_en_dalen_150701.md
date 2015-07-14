@@ -63,17 +63,15 @@ Productie epub - Jess van Zyl (PublishingLab)
 
 Mede mogelijk gemaakt door:
 
-![](imgs/ACIN-colofon.gif)
-
-<!--PLease add PublishingLab logo -->
-
-
+![](imgs/logo-ACIN.png)
 <br/><br/>
+![](imgs/logo-publishinglab-green.png)
+
 
 Eerste druk, augustus 2015
 
-ISBN print: 978-90-821753-1-8
-ISBN eupb: 978-90-821753-2-5
+ISBN print: 978-90-821753-1-8 <br></br>
+ISBN ePub: 978-90-821753-2-5
 
 <p style="page-break-after:always;"></p>
 <br/><br/>
@@ -356,7 +354,7 @@ Geleyn Meijer
 
 Voorzitter CLICKNL
 
-# Deel I Nederland als proeftuin
+# Deel I - Nederland als proeftuin
 
 Dit eerste deel gaat over innovatie wat essentieel is voor onze
 kenniseconomie. Innovatie vindt steeds vaker plaats in zogenaamde
@@ -373,7 +371,7 @@ vijfde plaats[^1], waarbij wordt gekeken naar diverse aspecten van
 infrastructuur tot de politieke situatie. Ook scoort Nederland met een
 achtste plaats hoge ogen in de Global Competitiveness Index 2014-2015.
 
-## Nederland op nummer 8 in de Global Competitiveness Index 2014-2015**
+## Nederland op nummer 8 in de Global Competitiveness Index 2014-2015
 
 >“As in the last edition, the Netherlands retains its 8th place this
 >year and depicts a stable competitiveness profile. Overall, the country
@@ -974,6 +972,8 @@ twee mensen in dienst.
 
 ![](imgs/Infographics/Kerncijfers creatieve industrie - pagina 26 van het boek.jpg "Kerncijfers creatieve industrie")
 
+&nbsp;
+
 Een karakteristiek van de creatieve industrie is dan ook dat dé
 creatieve industrie niet bestaat in al haar veelzijdigheid: een
 fotograaf is geen gamedeveloper, een mode- ontwerper is geen architect.
@@ -993,7 +993,7 @@ het topsectorenbeleid en raakt aan de discussie over de januskop van de
 creatieve industrie, zoals eerder in dit deel over definitie en cijfers
 is geschetst.
 
-# Deel II Van zaaien naar oogsten 
+# Deel II - Van zaaien naar oogsten 
 
 In dit tweede deel wordt de ontwikkeling van de creatieve industrie
 geschetst over de periode 2003-2015: van de oprichting van het
@@ -1114,6 +1114,9 @@ vanzelfsprekend. Een mix van timing, toeval en personen maakte dat de
 creatieve industrie op de kaart kwam en er vandaag de dag niet meer af
 is te denken.
 
+<p style="page-break-before:always;"></p>
+## 2003: Context kenniseconomie 
+
 ![](imgs/resized-bijfotos/2003.jpg "Hack the Brain")
 
 **Hack the Brain**
@@ -1125,9 +1128,6 @@ Brainhacking. We organise a bootcamp, a debate and pitches of the best
 hacks. Founding partners: Waag Society and Total Active Media. Partners:
 Donders Institute, Radboud University Nijmegen, TNO”
 Met dank aan Waag Society
-
-<p style="page-break-after:always;"></p>
-## 2003: Context kenniseconomie 
 
 Het kabinet Balkenende II (2003-2006) bestond uit VVD, CDA en D66. Dit
 kabinet laveerde tussen investeren en bezuinigen. Ondanks de druk om te
@@ -1179,6 +1179,9 @@ er voor gezorgd dat de creatieve industrie vast aan tafel kwam in de
 In 2003 is het Innovatieplatform van start gegaan, als opmaat voor de
 sleutelgebieden in 2004.
 
+<p style="page-break-before:always;"></p>
+## 2004: Sleutelgebieden
+
 ![](imgs/resized-bijfotos/2004.jpg "Solar Shirt")
 
 **Solar Shirt** 
@@ -1186,9 +1189,6 @@ The Solar Shirt is joint development by Pauline van Dongen and Holst Centre
 Fotograaf: Liselotte Fleur
 Model: Ann at Paparazzi Models
 Hair and make up: Angelique Stapelbroek
-
-<p style="page-break-after:always;"></p>
-## 2004: Sleutelgebieden
 
 Vanuit het Innovatieplatform is de zogenaamde sleutelgebiedenaanpak
 ontwikkeld, waarbij in 2004 in eerste instantie vier sleutelgebieden
@@ -1258,6 +1258,9 @@ binnen de creatieve industrie. De creatieve industrie zal zich hier toen
 niet van bewust zijn geweest, hoewel dit programma een belangrijke stap
 was en een van de fundamenten is geworden voor het latere TKI CLICKNL.
 
+<p style="page-break-before:always;"></p>
+## 2005: Ons Creatieve Vermogen
+
 ![](imgs/resized-bijfotos/2005.jpg "Biohacking")
 
 **Biohacking**
@@ -1271,9 +1274,6 @@ April 2015.*
 [*waag.org/biohackacademy*](http://waag.org/biohackacademy)*;*
 [*biohackacademy.github.io/*](http://biohackacademy.github.io/)[*vimeo.com/channels/biohackacademy*](https://vimeo.com/channels/biohackacademy)
 Met dank aan Waag Society
-
-<p style="page-break-after:always;"></p>
-## 2005: Ons Creatieve Vermogen
 
 In 2005 hebben de ministeries van EZ en OCW gezamenlijk beleid
 ontwikkeld voor de creatieve industrie wat zijn weerslag kreeg in de
@@ -1324,6 +1324,9 @@ dat overheidssteun in de startfase onontbeerlijk is. Een
 langetermijnhorizon is daarbij benodigd zodat initiatieven kunnen rijpen
 om uiteindelijk voldoende marktvraag te genereren.
 
+<p style="page-break-before:always;"></p>
+### 2006: Onderweg naar nieuwe samenwerkingsverbanden
+
 ![](imgs/resized-bijfotos/2006.jpg "Picnic")
 
 **PICNIC**
@@ -1339,8 +1342,6 @@ open data in different settings and multiple locations.*”
 Fotografie: Tomek Whitfield
 Met dank aan Waag Society
 
-<p style="page-break-after:always;"></p>
-## 2006: Onderweg naar nieuwe samenwerkingsverbanden
 
 In 2006 werden vooral heel veel nieuwe plannen gemaakt en werd aan
 elkaar ‘geroken’. Lokaal en regionaal ontstonden diverse nieuwe
@@ -1426,6 +1427,9 @@ signaal afgegeven dat de sector er echter nog niet was. Dit hielp bij
 het verder organiseren van de sector en het ontstaan van meerdere grote
 programma’s.
 
+<p style="page-break-before:always;"></p>
+### 2007: IIP/Create en FES GATE 
+
 ![](imgs/resized-bijfotos/2007.jpg "Scottie")
 
 **Scottie**
@@ -1440,10 +1444,7 @@ van GATE (Game Research for Training and Entertainment).”*
 [*www.waag.org/nl/project/zorgpilot-scottie-gate*](http://www.waag.org/nl/project/zorgpilot-scottie-gate)
 Met dank aan Waag Society en GATE
 
-<p style="page-break-after:always;"></p>
-### 2007: IIP/Create en FES GATE 
-
-**IIP/Create**
+#### IIP/Create
 
 In 2007 ontstond het ICT-Innovatieplatform Creatieve Industrie, afgekort
 IIP/Create[^57]. Dit creatieve industrie-initiatief was het eerste op
@@ -1494,7 +1495,7 @@ aan de basis van IIP/Create.
 >de ICT Roadmap, als onderdeel van de Topsector High Tech Systemen en
 >Materialen (HTSM).
 
-**Organisatie**
+#### Organisatie
 
 IIP/Create groeide gestaag uit van een informeel netwerk in 2007 tot een
 stichting in 2008. De stichting IIP/Create kende een bestuur en raad van
@@ -1524,7 +1525,7 @@ coördineerde. Daarbij werden vier werkgroepen onderscheiden.
 > intellectueel eigendom, aansluiting onderwijs en arbeidsmarkt en
 > Living Labs.
 
-**Realisatie**
+#### Realisatie
 
 IIP/Create heeft mede aan de wieg gestaan van meerdere grote nationale
 programma’s, zoals het diensteninnovatieprogramma Service Innovation &
@@ -1538,8 +1539,9 @@ instrument werd ingezet om het veld verder te organiseren, als opmaat
 naar programmering via onder andere een nationaal innovatieprogramma en
 Europese projectfinanciering.
 
-![](imgs/infographics/Programmatische ambities IIP-CREATE - pagina 55 van het boek.jpg "IIP/Create")
+![](imgs/infographics/Programmatische-ambities-IIPCreate-v2.jpg "IIP/Create")
 
+&nbsp;
 
 Verder heeft IIP/Create enkele pilotprojecten rond cross-overs opgezet
 om de waarde van de creatieve industrie voor andere sectoren te staven,
@@ -1591,7 +1593,7 @@ Scania truck en feedbacksysteem gericht op duurzamer rijgedrag van
 chauffeurs.
 Met dank aan Scania, Ideate en CGI
 
-**Overgang naar de topsector**
+#### Overgang naar de topsector
 
 In 2011 en 2012 heeft IIP/Create een bijdrage geleverd aan het vorm
 krijgen van de topsector Creatieve Industrie en in het bijzonder het TKI
@@ -1604,7 +1606,7 @@ succesvol initiatief op zijn hoogtepunt te laten stoppen, maar de
 vergelijking met een raket die tijdens de lancering zijn draagraketten
 op het hoogtepunt ook afstoot werkte goed.
 
-**FES GATE**
+#### FES GATE
 
 Het FES-programma Game Research for Training and Entertainment (GATE)
 liep van 2007 tot en met 2012, met Mark Overmars als belangrijke
@@ -1615,7 +1617,7 @@ was na NWO CATCH het tweede substantiële onderzoeksprogramma voor een
 belangrijk onderdeel van de creatieve industrie dat directe impact in
 haar toepassingen meebracht voor andere sectoren, zoals de zorgsector.
 
-**GATE**
+### GATE
 
 >Bijdrage van Remco Veltkamp, hoogleraar Universiteit Utrecht, voormalig
 >directeur GATE, 25 mei 2014
@@ -1671,6 +1673,7 @@ haar toepassingen meebracht voor andere sectoren, zoals de zorgsector.
 **Vliegsimulator**
 *Met dank aan TNO Human Factors Soesterberg en GATE*
 
+<p style="page-break-before:always;"></p>
 ### 2008: Het leggen van een nieuwe fundering
 
 ![](imgs/resized-bijfotos/2008.jpg "Business of Design Week")
@@ -1690,7 +1693,7 @@ heart of the city overlooking the Hong Kong skyline.”*
 <http://www.dutchfashionfoundation.com/images/contribute/Pressrelease-DutchFashionSoireeinHongKong.pdf>
 Met dank aan Dol Soon Mulder, RVO.nl
 
-**Business of Design Week**
+#### Business of Design Week
 
 In Hong Kong werd tijdens de Business of Design Week in het najaar van
 2008 met honderden sleutelfiguren uit de Nederlandse creatieve
@@ -1700,7 +1703,7 @@ andere kant van de wereld hebben de basis gelegd voor het FES-programma
 CRISP, evenals voor het internationaliseringsprogramma Dutch Design,
 Fashion and Architecture.
 
-**Nederland partnerland Business of Design Week, Hong Kong 2008**
+### Nederland partnerland Business of Design Week, Hong Kong 2008
 
 >Bijdrage van Jasper Kraaijenveld, voormalig ministerie EZ en
 >Branchevereniging van Nederlandse Architectenbureaus (BNA), 11 maart
@@ -1739,7 +1742,7 @@ Fashion and Architecture.
 >op de ontwikkeling van intelligente Product Service Systems met een
 >optimale* user experience*.”*
 
-**Club van Twaalf**
+#### Club van Twaalf
 
 In Amsterdam hebben twaalf vooraanstaande creatieve ondernemers het
 initiatief genomen om met elkaar te brainstormen over de creatieve
@@ -1754,7 +1757,7 @@ navolging meer heeft gehad. Wel zijn hieruit verschillende initiatieven
 voortgekomen zoals het instituut voor creatief leiderschap THNK in
 Amsterdam.
 
-**Service Innovation & ICT**
+#### Service Innovation & ICT
 
 In nauwe samenwerking met het voormalige Telematica Instituut (nu Novay)
 en het Holland Financial Centre heeft IIP/Create in 2008 en 2009 de
@@ -1766,7 +1769,7 @@ nieuwe topsectorenbeleid dat door de toenmalige minister van EZ Verhagen
 werd ingezet. Het SII-innovatieprogramma was in twee delen opgeknipt,
 waarbij voor het eerste deel 12,5 miljoen euro was gereserveerd.
 
-**Innovatieprogramma Service Innovation & ICT**
+### Innovatieprogramma Service Innovation & ICT
 
 >Bijdrage van Carlien Roodink, voormalig directeur SII, 14 mei 2014
 
@@ -1864,6 +1867,7 @@ mediadiensten?
 >eenvoudiger informatie via verschillende media en communicatiesystemen
 >te delen.”*[^60]
 
+<p style="page-break-before:always;"></p>
 ### 2009: De gele kaart, de Federatie en een internationaliseringsprogramma
 
 ![](imgs/resized-bijfotos/2009.jpg "Federatie Dutch Creative Industries")
@@ -1886,7 +1890,7 @@ kaart uit aan de creatieve industrie als sleutelgebied. Deze commissie
 Scheepbouwer evalueerde de sleutelgebiedenaanpak en gaf een advies over
 de continuïteit hiervan:
 
-**Gele kaart als waarschuwing**
+### Gele kaart als waarschuwing
 
 *“Het Sleutelgebied Creatieve Industrie laat na vier jaar nog nauwelijks
 verbeteringen in de zelforganisatie en planvorming zien. Er zijn nog
@@ -1926,7 +1930,7 @@ Desalniettemin droeg de gele kaart wel bij aan een gevoel van urgentie
 en noodzaak (nog verder) over de eigen bastions heen te kijken en samen
 te werken.
 
-**Federatie Dutch Creative Industries**
+#### Federatie Dutch Creative Industries
 
 In 2009 is de Federatie Dutch Creative Industries ontstaan. De Federatie
 is een koepel voor acht brancheorganisaties van onderdelen binnen de
@@ -1947,7 +1951,7 @@ Federatie Dutch Creative Industries heeft begin 2013 een publicatie over
 cross-overs uitgebracht, in samenwerking met Syntens, PICNIC, het
 Stimuleringsfonds en TKI CLICKNL.
 
-**Federatie Dutch Creative Industries **
+### Federatie Dutch Creative Industries
 
 >Bijdrage van Gerbrand Bas, secretaris Federatie Dutch Creative
 >Industries, 6 maart 2014
@@ -2034,7 +2038,7 @@ en blijven. Er was vervolgens overigens niet veel tijd nodig om andere
 >middelen nodig. Kansen liggen er ook buiten Nederland waar tegen deze
 >ongebruikelijke combinatie van disciplines jaloers wordt aangekeken.”
 
-**Dutch Design, Fashion and Architecture**
+#### Dutch Design, Fashion and Architecture
 
 Dutch Design, Fashion and Architecture, is sinds 2009 de gezamenlijke
 beleidsmatige activiteit geweest van de departementen EZ, OCW en
@@ -2044,7 +2048,7 @@ primair gericht op de focuslanden China, India, Duitsland en Turkije.
 Met ingang van 2013 is deze internationaliseringsactiviteit opgegaan in
 het Stimuleringsfonds, waarover verderop in dit boek meer.
 
-**Toolbox of instruments**
+#### Toolbox of instruments
 
 >“Over the years the DutchDFA programme developed a ‘toolbox’ of
 >specific instruments for the creative industry. Multidisciplinary,
@@ -2068,7 +2072,7 @@ het Stimuleringsfonds, waarover verderop in dit boek meer.
 Mode biennale Arnhem 2011
 Fotograaf: Gerbrand Bas | [https://nl.wikipedia.org/wiki/Arnhem\_Mode\_Bi%C3%ABnnale](https://nl.wikipedia.org/wiki/Arnhem\_Mode\_Bi%C3%ABnnale)
 
-**Tweede brief Cultuur en Economie**
+#### Tweede brief Cultuur en Economie
 
 Als aansluitend beleidsprogramma op de eerste brief Cultuur en Economie
 in 2005 is in 2009 een nieuwe Tweede Kamerbrief ‘Cultuur en Economie’
@@ -2080,21 +2084,20 @@ niet te beëindigen.
 De zes actielijnen, die een aanscherping zijn van de vijf actielijnen
 uit de Tweede Kamerbrief van 2005, zijn de volgende:
 
--   Opstellen van een strategische agenda voor en door de creatieve
+1. Opstellen van een strategische agenda voor en door de creatieve
     industrie;
-
--   Verbeteren van de kennis over en de benutting van intellectuele
+2. Verbeteren van de kennis over en de benutting van intellectuele
     eigendomsrechten;
+3. Stimuleren van onderzoek, onderwijs en ondernemerschap;
 
--   Stimuleren van onderzoek, onderwijs en ondernemerschap;
-
--   Vergroten van de internationale oriëntatie en verbeteren van de
+4. Vergroten van de internationale oriëntatie en verbeteren van de
     toegang tot en positionering in buitenlandse markten;
+5. Verbeteren van de toegang tot kapitaal;
 
--   Verbeteren van de toegang tot kapitaal;
+6. Versterken van de digitale en fysieke infrastructuur.
 
--   Versterken van de digitale en fysieke infrastructuur.
-
+<p style="page-break-before:always;"></p>
+### 2010: Waarde van Creatie 
 
 ![](imgs/resized-bijfotos/2010.jpg "Service Design in de praktijk")
 
@@ -2103,8 +2106,6 @@ uit de Tweede Kamerbrief van 2005, zijn de volgende:
 efficient driving a habit saving thousands liters of fuel, day in, day
 out” - Een project van Ideate, Scania en CGI.*
 Met dank aan Onno van de Veen, Zeeno
-
-### 2010: Waarde van Creatie 
 
 Na de ontwikkeling van het diensteninnovatieprogramma SII is in nauwe
 afstemming met het ministerie van EZ sinds medio 2009 en 2010 gewerkt
@@ -2136,7 +2137,7 @@ leiderschap, kennisontwikkeling (o.a. in relatie tot *creative
 thinking*) en financiële en fiscale condities. Een deel van deze
 ambities is teruggekomen in de latere topsector Creatieve Industrie.
 
-**Waarde van Creatie-programma voor de creatieve industrie**
+### Waarde van Creatie-programma voor de creatieve industrie
 
 >Bijdrage van Ruurd Priester, voormalig directeur strategie DigitasLBi en
 >research fellow HvA, 8 april 2014
@@ -2201,6 +2202,7 @@ ambities is teruggekomen in de latere topsector Creatieve Industrie.
 >kregen een positief advies, maar wisten eigenlijk al dat een nieuw
 >kabinet een nieuw plan zou willen.”
 
+<p style="page-break-before:always;"></p>
 ### 2011: FES CRISP en FES COMMIT 
 
 ![](imgs/resized-bijfotos/2011.jpg "CRISP")
@@ -2211,12 +2213,9 @@ methods, platforms, guiding principles and the business models required
 to understand the multi-disciplinary opportunities and challenges of
 creating Smart Textile Product Service Systems”*.
 [*http://www.crispplatform.nl/smart-textile-services/smart-textile-services*](http://www.crispplatform.nl/smart-textile-services/smart-textile-services)
-
 The four pictures represent the Textales Dream Bear edition.
-
 Developed by: Kristi Kuusk, TU/e, Johan van den Acker Textielfabriek,
 Unit040 and Kerstin Zabransky
-
 Photography: Katrina Tang, 2015; Models: Linda, Nete, Airon and Taavi.
 
 Vanuit het Fonds Economische Structuurversterking (FES) zijn onder meer
@@ -2228,7 +2227,7 @@ COMMIT voor ICT-onderzoek gestart. Met deze programma’s is een
 belangrijk fundament gelegd voor structureel onderzoek in de creatieve
 industrie.
 
-**FES CRISP**
+#### FES CRISP
 
 Het FES-programma Creative Industry Scientific Programme (CRISP) startte
 formeel in het voorjaar van 2011 met een looptijd tot medio 2015. CRISP
@@ -2245,7 +2244,7 @@ FES-voorstellen toetste. Het tweede voorstel CRISP was meer inhoudelijk
 gefocust en kon bogen op een wetenschappelijk fundament. Cees de Bont
 heeft hier een cruciale rol gespeeld.
 
-**CRISP**
+### CRISP
 
 >“The Creative Industry Scientific Programme will develop a knowledge
 >infrastructure that will consolidate its leadership position as pioneer
@@ -2256,7 +2255,7 @@ heeft hier een cruciale rol gespeeld.
 >complex combinations of intelligent products and services with a highly
 >effective user experience.”[^63]
 
-**FES COMMIT**
+#### FES COMMIT
 
 Het FES COMMIT-programma is mede tot stand gekomen dankzij het
 voormalige ICTRegie-orgaan dat een belangrijke rol heeft gespeeld in de
@@ -2291,8 +2290,7 @@ to assess the behavior and emotion of groups of people and relay that
 information to stakeholders.
 Met dank aan Noldus information Technology.
 
-Van sleutelgebied tot topsector 
---------------------------------
+# Van sleutelgebied tot topsector
 
 Met het voortijdig vallen van het derde kabinet Balkenende en het
 aantreden van het eerste kabinet Rutte op 14 oktober 2010 heeft begin
@@ -2301,6 +2299,7 @@ toenmalig minister Verhagen van EZ. Dit deel schetst de ontwikkeling van
 het ontstaan van de topsector Creatieve Industrie en het Topconsortium
 voor Kennis en Innovatie CLICKNL, afgekort TKI CLICKNL.
 
+<p style="page-break-before:always;"></p>
 ### 2011: Topsector, topteam en Dutch Creative Council
 
 ![](imgs/resized-bijfotos/2011b.jpg "Ceuvel")
@@ -2318,7 +2317,7 @@ plan also includes a public restaurant, Ceuvel Café, and a bed &
 breakfast.”* [*http://deceuvel.nl*](http://deceuvel.nl)
 Fotograaf: Maarten Pedroli, Dutch Creative Residency Netwerk
 
-**Topsectoren**
+#### Topsectoren
 
 Het eerste kabinet Rutte heeft aan het begin van 2011 negen topsectoren
 benoemd om de Nederlandse economie te versterken en te stimuleren:
@@ -2332,7 +2331,9 @@ ontwikkeling.
 
 ![](imgs/Infographics/Negen-topsectoren-v2.jpg "Negen topsectoren ter versterking van de Nederlandse economie")
 
-**Topteam**
+&nbsp;
+
+#### Topteam
 
 Met het topsectorenbeleid zijn zogenaamde topteams benoemd door de
 minister van EZ die de verschillende topsectoren verder moesten
@@ -2347,7 +2348,9 @@ creatie. Op basis van de evaluatie door het topteam Creatieve Industrie
 over de periode 2011-2013 wordt hieronder een update geschetst van de
 verschillende agendaonderdelen[^65].
 
-![](imgs/Infographics/Agenda topteam creatieve industrie - pagina 85 van het boek.jpg "Agenda topteam Creatieve Industrie")
+![](imgs/Infographics/Agenda-topteam-creatieve-industrie.jpg "Agenda topteam Creatieve Industrie")
+
+&nbsp;
 
 *Human capital*: Bij dit agendaonderdeel is de ambitie om creatief
 talent zodanig op te kunnen leiden en faciliteren dat men tot de
@@ -2362,7 +2365,7 @@ Ook wordt door de verschillende topsectoren steeds meer samengewerkt
 rond human capital, gegeven de gezamenlijke uitdagingen die veelal
 generiek zijn.
 
-**Centers of Expertise**
+### Centers of Expertise
 
 >Om de centrale rol van het Hoger Beroeps Onderwijs en de daarmee
 >verbonden lectoraten te steunen zijn Centers of Expertise ingesteld. De
@@ -2424,7 +2427,7 @@ veel aandacht besteed aan cross-overs. Naast de driehoek van overheid,
 bedrijfsleven en kennisinstellingen vormen opdrachtgevers een
 belangrijke partij. TKI CLICKNL speelt hier een belangrijke rol.
 
-**It takes 4 to tango (IT4TT)**
+### It takes 4 to tango (IT4TT)
 
 >Het topteam en bestuur van CLICKNL hebben samen een taskforce It takes
 >4 to tango ingericht, vanuit de ambitie meer bedrijven en opdrachtgevers
@@ -2433,7 +2436,9 @@ belangrijke partij. TKI CLICKNL speelt hier een belangrijke rol.
 >bedrijfsleven, als vierde partij opdrachtgevers nodig zijn in het verder
 >ontwikkelen van de sector.
 
-![](imgs/Infographics/It takes 4 tot tango - pagina 87 van het boek.jpg "It takes 4 to tango")
+![](imgs/Infographics/It-takes-4-tot-tango.jpg "It takes 4 to tango")
+
+&nbsp;
 
 It takes 4 to tango
 
@@ -2452,6 +2457,8 @@ ontwikkeld welke fungeert als baken voor de verschillende activiteiten,
 waaronder onderzoeksprogramma’s, innovatieregelingen en cross-overs.
 
 ![](imgs/Infographics/TKI-CLICKNL-en-zes-netwerken-v2.jpg "TKI CLICKNL en de zes CLICKNL Netwerken")
+
+&nbsp;
 
 TKI CLICKNL en de zes CLICKNL Netwerken
 
@@ -2487,7 +2494,7 @@ dance-industrie op te lossen, Develop me, om het eigen businessmodel en
 product verder te ontwikkelen en Launch me, wanneer het ‘product’ rijp
 is om in de markt gezet te worden.
 
-**Open House**
+### Open House
 
 >“We are Open House - an initiative of the founders of ID&T, SFX
 >Entertainment Company and the Dutch Ministry of Economic Affairs. We are
@@ -2500,7 +2507,7 @@ Naast gerichte initiatieven zoals Open House zijn ‘broedplaatsen’ en
 faciliteiten voor start-ups van groot belang voor de ‘humuslaag’ van de
 creatieve industrie.
 
-**Broedplaatsen en start-ups**
+### Broedplaatsen en start-ups
 
 >Aan de voorkant van de innovatieketen staan start-ups, welke cruciaal
 >zijn voor vernieuwing en economische groei. De creatieve industrie kent
@@ -2526,7 +2533,7 @@ creatieve industrie.
 >ondernemers om hun ideeën en innovaties naar de markt te brengen en op
 >te kunnen schalen.[^70]
 
-**Dutch Creative Council**
+#### Dutch Creative Council
 
 Naast het topteam is de Dutch Creative Council ingericht, een brede
 onafhankelijke strategische adviesraad van en voor de creatieve
@@ -2538,20 +2545,21 @@ Creative Council met specifieke werkgroepen de spade een slag dieper per
 onderwerp. De Dutch Creative Council vormt ook de adviesraad voor het
 TKI CLICKNL, voor het onderwerp kennis en innovatie.
 
+<p style="page-break-before:always;"></p>
 ### 2012: De geboorte van TKI CLICKNL: van muiterij tot een innovatiecontract
 
 ![](imgs/resized-bijfotos/2012.jpg "Villa 4.0, Dick van Gameren")
 
 **Villa 4.0, Dick van Gameren**
-*“Dutch architect* [**Dick van Gameren**](http://www.vangameren.com/)
-*has converted a family house outside Hilversum by punching three
+*“Dutch architect* [Dick van Gameren](http://www.vangameren.com/)
+has converted a family house outside Hilversum by punching three
 faceted skylights through the roof and driving a corridor through the
 middle. The project has been named Villa 4.0 since this is the fourth
 major rebuilding of the single-storey house, which was built in the
 sixties and which has a plan based on hexagons. The design received the
 BNA building of the year award 2012”. Dick van Gameren is currently
-partner at Mecanoo Architects. Photo: Dick van Gameren Architecten.*
-[**http://www.mecanoo.nl/Projects/project/74/Villa-4-0?t=0**](http://www.dezeen.com/2011/07/20/villa-4-0-by-dick-van-gameren/)
+partner at Mecanoo Architects. Photo: Dick van Gameren Architecten.
+[http://www.mecanoo.nl/Projects/project/74/Villa-4-0?t=0](http://www.dezeen.com/2011/07/20/villa-4-0-by-dick-van-gameren/)
 
 Een belangrijk onderdeel van het topsectorenbeleid zijn de TKI’s, de
 Topconsortia voor Kennis en Innovatie. Voor de creatieve industrie is
@@ -2623,7 +2631,7 @@ TKI CLICKNL hier wel verandering in brengen? Dit had ook te maken met
 wederzijdse verwachtingen van overheid, kennisinstellingen en creatief
 MKB.
 
-**‘De gouden driehoek’ in spagaat **
+### ‘De gouden driehoek’ in spagaat
 
 >Vanuit de overheid is in 2011 het topsectorenbeleid ingezet op basis
 >waarvan per topsector een of meerdere TKI’s zijn geformeerd met als doel
@@ -2633,7 +2641,7 @@ MKB.
 >industrie is dit een enorme uitdaging, gegeven de long tail van
 >kleinbedrijf. Het creatief MKB is juist gericht op
 >kortetermijnonderzoek, gericht op innovatie, waarbij ‘korte termijn’
->maximaal een paar maanden is.*
+>maximaal een paar maanden is.
 
 >Kennisinstellingen zijn gewend aan onderzoeksprojecten van jaren, zo
 >ook was oorspronkelijk het instrumentarium van onderzoeksorganisatie NWO
@@ -2704,7 +2712,7 @@ Andere CLICKNL Netwerken zijn echt opgebouwd vanuit geen tot beperkte
 organisatiekracht, zoals de CLICKNL Netwerken Built Environment en Next
 Fashion.
 
-**CLICKNL | Built Environment**
+### CLICKNL | Built Environment
 <blockquote>
 Bijdrage van Machteld Kors, UNStudio en bestuurslid TKI CLICKNL, en
 Franklin van der Hoeven, TUD en CLICKNL Built Environment, 25 mei 2014
@@ -2738,7 +2746,7 @@ ontwikkeld werd, tegenwoordig is dat het ministerie van Infrastructuur
 en Milieu. Een aantal steden heeft ook lokaal architectuurbeleid zoals
 de gemeente Rotterdam.
 
-***Verschillende partners en uiteenlopende belangen***
+**Verschillende partners en uiteenlopende belangen**
 
 Het Nieuwe Instituut (voormalig Nederlands Architectuur Instituut) is
 een prominent nationaal platform. Op lokaal niveau zijn er talloze
@@ -2763,7 +2771,7 @@ aanspraak konden maken op de gelden van NWO/TNO. En voorstellen van
 universiteiten werden ondanks hun hoge scores in de review niet
 gehonoreerd op basis van ontoereikende middelen.
 
-***Stand van zaken van CLICKNL | Built Environment***
+**Stand van zaken van CLICKNL | Built Environment**
 
 De ontwikkelingen rond CLICKNL zijn in 2013 gestagneerd als gevolg van
 het ontrafelen van regels, verantwoordelijkheden en bevoegdheden over
@@ -2782,7 +2790,7 @@ op het terrein van CLICKNL | Built Environment schatten we in op circa
 de helft van dit aantal (20-25) partijen bij (de activiteiten van) het
 netwerk.
 
-***Publiek-private samenwerking ***
+**Publiek-private samenwerking **
 
 Samenwerking tussen academische partners, overheden en ontwerpbureaus
 zijn gebruikelijk en bestaan volop. Het organiseren van die uitwisseling
@@ -2801,7 +2809,7 @@ tussen fundamenteel onderzoek met de daarbij behorende tijdlijn
 (minimaal vier jaar) en de urgentie in de markt die gedreven wordt door
 de ontwikkelende partijen zoals ontwikkelaars, aannemers en gemeenten.
 
-***Kritische succesfactoren ***
+**Kritische succesfactoren **
 
 Bij een aantrekkende markt, waarbij ontwerpbureaus en ontwikkelaars
 weer sterker gedreven worden door projectdeadlines bestaat het gevaar
@@ -2822,7 +2830,7 @@ Environment.”
 **Dienst Uitvoering Onderwijs & Belastingdienst, Groningen**
 Fotograaf: Ronald Tilleman
 
-**CLICKNL | Next Fashion**
+### CLICKNL | Next Fashion
 <blockquote>
 Bijdrage van José Teunissen, lector modevormgeving ArtEZ en CLICKNL Next
 Fashion, 29 juni 2014
@@ -2889,7 +2897,7 @@ erkend worden. Het netwerk Next Fashion blijkt een prima netwerk om
 bedrijven en instellingen op deze vraagstukken aan elkaar te koppelen.”
 </blockquote>
 
-**CLICKNL** **| Cultural Heritage**
+### CLICKNL | Cultural Heritage
 
 <blockquote>
 Bijdrage van Patricia Alkhoven, Meertens Instituut en CLICKNL Cultural
@@ -2919,7 +2927,7 @@ geplukt worden van de inspanningen van de afgelopen jaren en het netwerk
 wordt in toenemende mate door verschillende partijen als
 vanzelfsprekende partner benaderd.
 
-***Projecten***
+**Projecten**
 
 In de afgelopen periode zijn er minstens twaalf onderzoeksprojecten
 binnen de creatieve industrie tot stand gekomen die zijn aangesloten bij
@@ -2933,7 +2941,7 @@ geesteswetenschappen te bouwen. Internationaal is het netwerk betrokken
 bij o.a. het JPI (Joint Programming Initiative), Europeana en
 Vlaams-Nederlandse betrekkingen.
 
-***Events***
+**Events**
 
 Cultural Heritage heeft jaarlijks twee grote en diverse kleinere
 matchmakingsevents georganiseerd die goed bezocht werden en aantoonbaar
@@ -2942,7 +2950,7 @@ Koophandel zijn er inmiddels vier H2O-bijeenkomsten (Heritage, Onderzoek
 en Onderneming) georganiseerd rond actuele thema’s zoals crowdsourcing,
 storytelling en new business for museums.
 
-***ICT***
+**ICT**
 
 De inzet van een online tool om matches tussen partijen tot stand te
 brengen zal na de testperiode sterker worden, ook de inzet ervan door de
@@ -2953,7 +2961,7 @@ Daarnaast is er een nauwe samenwerking met de door OCW ingestelde
 ‘Erfgoedsoftwaremakelaar’ die de duurzaamheid van softwareproducten voor
 de erfgoedsector moet verbeteren.
 
-***Toekomst en doelstellingen***
+**Toekomst en doelstellingen**
 
 Het doel van Cultural Heritage is om individuele erfgoedinstellingen
 met elkaar te verbinden en in het bijzonder musea, door het organiseren
@@ -3003,7 +3011,7 @@ technologie gemaakt. Het beleid was per regio echter erg variabel van
 aard: van huisvesting (broedplaatsen) tot projectensubsidies of
 bijvoorbeeld cultureel ondernemerschap.
 
-**Creatieve stad Amsterdam**
+### Creatieve stad Amsterdam
 <blockquote>
 In de regio Amsterdam is al bijna vijftien jaar sprake van divers
 beleid gericht op de creatieve en culturele industrie: ruimtelijk beleid
@@ -3055,6 +3063,8 @@ research areas*: inhoudelijke onderzoeksvraagstukken.
 
 [](images/Infographics/Illustratie-programmatische-invulling-pagina-105-van-het-boek.jpg "Kennis en innovatieagenda CLICKNL")
 
+&nbsp;
+
 Kennis- en innovatieagenda CLICKNL[^72]
 
 Vanuit zes de CLICKNL Netwerken (solution spaces) worden
@@ -3072,7 +3082,9 @@ research area* is in dit voorbeeld Smart Society, waarbij onderzoek
 wordt gedaan naar slimme e-health-oplossingen en gamificationconcepten
 in relatie tot dementie en langer zelfstandig kunnen functioneren.
 
-![](imgs/Infographics/Kennis en innovatieagenda CLICKNL - pagina 105 van het boek.jpg "Illustratie van programmatische invulling")
+![](imgs/Infographics/Illustratie-programmatische-invulling.jpg "Illustratie van programmatische invulling")
+
+&nbsp;
 
 Illustratie van programmatische invulling van onderdelen van de KIA met
 een programma over langer zelfstandig functioneren met dementie, waarbij
@@ -3124,7 +3136,7 @@ miljoen euro in nieuwe activiteiten binnen de creatieve industrie. In de
 periode 2014-2015 zijn door NWO in het innovatiecontract middelen
 gereserveerd ter waarde van in totaal 19,4 miljoen euro [^73].
 
-**Gedrag de-escaleren met behulp van interactieve lichtscenario's **
+### Gedrag de-escaleren met behulp van interactieve lichtscenario's
 <blockquote>
 Voorbeeld van een strategisch onderzoeksproject
 
@@ -3144,8 +3156,7 @@ worden ook embedded research-projecten uitgevoerd met een looptijd van
 een half jaar waarbij uitwisseling plaats heeft tussen onderzoekers in
 het bedrijfsleven en of creatieven in een onderzoeksomgeving.
 
-**The Hackable City**
-
+### The Hackable City
 <blockquote>
 Voorbeeld van een embedded research-project
 
@@ -3171,7 +3182,7 @@ private partijen (inclusief MKB) te stimuleren. Een kortlopend
 KIEM-project kan dienen als springplank voor een groter
 onderzoeksproject.
 
-**Zwemkleding als tweede huid**
+### Zwemkleding als tweede huid
 <blockquote>
 Voorbeeld van een KIEM-project
 
@@ -3191,6 +3202,8 @@ betrokken[^77].
 
 ![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "Kerncijfers creatieve industrie NWO en TNO")
 
+&nbsp;
+
 Kerncijfers creatieve industrie NWO en TNO, periode 2012-2014
 
 **Kennisontwikkeling en creatief MKB**
@@ -3203,7 +3216,7 @@ onderzoekswerk vormt een soort humuslaag voor nieuwe kennisontwikkeling.
 De creatieve industrie loopt hiermee ver voorop in nieuwe ontwikkelingen
 die vaak pas jaren later als trends worden gesignaleerd.
 
-**Open Design Lab, Waag Society**
+### Open Design Lab, Waag Society
 <blockquote>
 “Binnen het Open Design Lab wordt design innovatie een open,
 gezamenlijke en gedistribueerde inspanning, zoals we dat al hebben
@@ -3255,7 +3268,7 @@ Desk NL/DutchCulture-centre for internation cooperation hiervoor het
 contactpunt. Dit is de opvolger van de oude programma’s Cultuur, MEDIA
 en MEDIA Mundus[^80].
 
-**Creative Industries in Europa**
+### Creative Industries in Europa
 <blockquote>
 Bijdrage van Joke van Antwerpen, Innovatie-adviseur Amsterdam Economic
 Board, Coördinator European Creative Industries Alliance, 27 maart 2014
@@ -3336,14 +3349,15 @@ een gezamenlijk NWO-onderzoeksprogramma Indo-Dutch gestart voor partners
 uit India en Nederland, met onder andere serious gaming als
 onderzoeksonderwerp.
 
+<p style="page-break-before:always;"></p>
 ### 2013: Een grillig jaar en kafkaiaanse situaties
 
 ![](imgs/resized-bijfotos/2013.jpg "3D printing")
 
 **3D printing**
-*“Tijdens PICNIC'10 stonden drie verschillende 3D printers opgesteld in
+“Tijdens PICNIC'10 stonden drie verschillende 3D printers opgesteld in
 het (Un)limited Design Lab op 23 september: de RepRap, de MakerBot en de
-Ultimaker.”*
+Ultimaker.”
 Fotografie: Marco Baiwir
 Met dank aan Waag Society
 
@@ -3412,7 +3426,7 @@ TKI-regeling, alsmede bij de MKB Innovatieregeling Topsectoren (MIT).
 Deze twee generieke EZ-regelingen staan aan de basis van het
 topsectorenbeleid en zijn in 2013 gestart.
 
-**MIT-regeling**
+#### MIT-regeling
 
 Binnen de MKB Innovatieregeling Topsectoren (MIT) kan per topsector
 worden gekozen welke instrumenten men voor 2 miljoen euro in wil zetten
@@ -3422,7 +3436,7 @@ innovatievouchers, innovatiemakelaars, netwerkactiviteiten,
 R&D-samenwerkingsprojecten, haalbaarheidsstudies,
 innovatieprestatiecontracten en inhuur hoogopgeleid personeel.
 
-**3D Print Canal House**
+### 3D Print Canal House
 <blockquote>
 Voorbeeld van een MIT R&D-samenwerkingsproject
 
@@ -3466,7 +3480,7 @@ verschillende instrumenten op regionaal en nationaal niveau beter op
 elkaar aan te laten sluiten. Dit moet leiden tot een eenduidiger
 instrumentarium voor ondernemers.
 
-**MKB-loket**
+### MKB-loket
 <blockquote>
 CLICKNL heeft in samenwerking met de Kamer van Koophandel (tot 2014
 Syntens) het MKB-loket opgezet als landelijk aanspreekpunt voor
@@ -3484,7 +3498,7 @@ Innovatiemakelaars kunnen worden ingezet voor ondersteuning van MKB met
 meer workshops of conferenties organiseren gericht op kennisdeling en
 netwerkvorming tussen MKB.
 
-**Innovatievoucher**
+### Innovatievoucher
 <blockquote>
 Bijdrage van Marieke Rietbergen, oprichter Design Innovation Group, 11
 mei 2015
@@ -3509,7 +3523,7 @@ zetten in (technologische) innovatieprocessen. Hierdoor is de rol van
 dit soort ontwerp duidelijker.”
 </blockquote>
 
-**TKI-regeling**
+#### TKI-regeling
 
 Deze regeling voor alle negentien Topconsortia voor Kennis en Innovatie
 heeft als basisgedachte dat een TKI een toeslag (subsidie) kan
@@ -3556,9 +3570,9 @@ komende jaren verder blijft groeien. Op deze manier kan het vliegwiel
 echt gaan werken, waarbij op basis van nieuw onderzoek (gefinancierd met
 TKI-toeslag) weer nieuwe TKI-toeslag wordt gegenereerd.
 
-![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "Kerncijfers TKI-toeslag 2013-2015")
+![](imgs/resized-bijfotos/Kerncijfers-TKI-toeslag-2013-2015.png "Kerncijfers TKI-toeslag 2013-2015")
 
-Kerncijfers TKI-toeslag 2013-2015
+&nbsp;
 
 *Uitdagingen TKI-regeling*
 
@@ -3624,23 +3638,21 @@ in samenwerking met TNO[^86]. Zo begint het wiel steeds harder te
 draaien waarbij de inzet van TKI-gelden moet gaan leiden tot nieuwe
 TKI-toeslag.
 
-![](imgs/Infographics/Overzichten instrumenten en regelingen  - pagina 120 van het boek.jpg "Overzicht instrumenten en regelingen")
+![](imgs/Infographics/Overzichten-instrumenten-en-regelingen.jpg "Overzicht instrumenten en regelingen")
 
 Overzicht instrumenten en regelingen
 
+<p style="page-break-before:always;"></p>
 ### 2014: Cross-overs
 
 ![](imgs/resized-bijfotos/2014.jpg "Automatische paspoortcontrole Schiphol")
 
 **Automatische paspoortcontrole Schiphol**
-
-*"De nieuwe automatische paspoortcontrole op Schiphol is zo ingericht
+"De nieuwe automatische paspoortcontrole op Schiphol is zo ingericht
 dat mensen zelf soepel door de douane kunnen lopen, zonder tussenkomst
 van douaniers. De beleving op het vliegveld wordt daarmee prettiger,
 zonder dat het gevoel van veiligheid eronder lijdt. Ook de wachttijden
-worden zo verkort.*
-
-Met dank aan Jeroen van Erp, Fabrique
+worden zo verkort. Met dank aan Jeroen van Erp, Fabrique
 
 Op het gebied van cross-overs zijn meerdere partijen actief binnen de
 creatieve industrie. Zo wordt er ook samengewerkt met de Kamer van
@@ -3663,7 +3675,7 @@ met andere topsectoren en TKI’s. Daarnaast worden verkenningen
 uitgevoerd naar andere mogelijk relevante cross-overs, zoals op het
 gebied van veiligheid, agrifood en smart cities.
 
-**Smart Retail**
+#### Smart Retail
 
 Smart retail is een cross-over waar verschillende onderdelen van de
 creatieve industrie een rol spelen. Smart retail gaat over het inspelen
@@ -3677,7 +3689,7 @@ winkelgebieden, internetwinkelen en digitaal (kleding of accessoires)
 passen. In het voormalige onderzoeksprogramma Shopping2020 waren
 meerdere CLICKNL Netwerken betrokken.
 
-**Shopping2020**
+### Shopping2020
 <blockquote>
 “Branches en bedrijven hebben te maken met grote veranderingen op het
 gebied van (online) verkoop van producten en diensten aan consumenten.
@@ -3708,7 +3720,7 @@ retailsector mee kampt, maar ook voor welke kansen de sector staat. Het
 platform De Nieuwe Winkelstraat is hier goed op aangesloten als een van
 de uitvoerende partijen binnen het pallet aan beoogde activiteiten.
 
-**Create Energy**
+#### Create Energy
 
 Op 12 november 2013 zijn in de RAI tijdens de Innovatie-estafette zeven
 Green Deals getekend door minister Kamp van EZ. Een majeure ambitie is
@@ -3727,7 +3739,7 @@ gebruikers. Daarbij wordt door interactie met eindgebruikers gebruik
 gemaakt van creatieve methoden zoals design thinking, service design en
 gamification.
 
-**Creative Producers**
+### Creative Producers
 <blockquote>
 “Creative producers vertalen de projectcontext naar een aanpak waarin
 de gebruiker centraal wordt gesteld. Zij zorgen dat de kwaliteiten van
@@ -3756,13 +3768,12 @@ De eerste opstartfase en tweede fase van het kwartiermaken zijn in het
 voorjaar van 2015 afgerond. In 2015 wordt gestart met de implementatie
 van de concrete projecten op locaties van de betrokken vijf gemeenten.
 
-**Create Health**
+#### Create Health
 
 ![](imgs/resized-bijfotos/ABCDEsim-1.png "ABCDESIM")
 ![](imgs/resized-bijfotos/abcdeSIM-2.png "abcdeSIM") INVOEGEN FOTO abcdeSIM
 
 **abcdeSIM**
-
 In een online realistische virtuele spoedeisende hulp omgeving worden
 cursisten/spelers uitgedaagd om ernstige zieke patiënten te behandelen.
 Er worden acuut- en ernstig zieke patiënten binnengebracht. In deze game
@@ -3771,9 +3782,7 @@ accuraat te inventariseren en op volgorde van prioriteit te behandelen
 volgens de international ABCDE-methode (het controleren van Airway,
 Breathing, Circulation, Disability en Exposure). Er zijn verschillende
 versies beschikbaar voor (huis)artsen en verpleegkundigen.
-
 Afbeelding: **©**IJsfontein
-
 Met dank aan Mir Wermuth, Growing Games
 
 In 2014 is door CLICKNL gewerkt aan een landelijk platform Create
@@ -3785,7 +3794,7 @@ reeds in een eerste gezamenlijk programma van TKI CLICKNL en TKI Life
 Sciences & Health. Dit programma gaat zich richten op het vraagstuk hoe
 mensen met dementie langer zelfstandig kunnen functioneren.
 
-**Ambities Create Health**
+### Ambities Create Health
 <blockquote>
 “De hoofddoelstelling is het ontwikkelen en opschalen van slimme
 zorginnovaties voor maatschappelijke zorgvraagstukken waarmee nieuwe
@@ -3812,7 +3821,7 @@ brengen door het verbinden van netwerken waarin de samenwerking optimaal
 kan ontstaan en concreet wordt.”[^90]
 </blockquote>
 
-**Smart Industries/High Tech**
+#### Smart Industries/High Tech
 
 Een vierde cross-over waar CLICKNL aan werkt is op het snijvlak met
 Smart Industries/High Tech. Dit is geen sinecure gegeven de sterk
@@ -3830,7 +3839,7 @@ zozeer in het ‘mooi maken’ van een nieuw product aan de ‘achterkant’,
 maar eerder als strategische partner aan de ‘voorkant’ van onderzoek en
 ontwikkeling.
 
-**De toegevoegde waarde van de creatieve sector**
+### De toegevoegde waarde van de creatieve sector
 <blockquote>
 “De Nederlandse creatieve industrie kan en gaat daar een rol spelen
 die (inter)nationaal het verschil gaat maken doordat ondernemingen in de
@@ -3854,7 +3863,7 @@ programma op drie maatschappelijke domeinen: gezondheidszorg, educatie
 en defensie. CLICKNL Games is hier partner in de relatie tussen
 kenniswereld en bedrijfsleven.
 
-**Growing Games**
+#### Growing Games
 
 Op het gebied van games is in 2013 het Growing Games-initiatief
 ontstaan. Door de handen ineen te slaan vanuit de overheid (provincie en
@@ -3873,10 +3882,10 @@ te bezoeken, zodat een netwerkfunctie ontstaat. Door het spelen van de
 game krijgt de cliënt meer inzicht in het eigen herstelproces en ervaart
 zo ook meer eigen regie. Uiteindelijk komt Moodbot ook beschikbaar voor
 dierbaren van cliënten, zodat zij kunnen helpen signaleren.
-Afbeelding: **©**Altrecht/HKU, stichting Moodbot
+Afbeelding: **©** Altrecht/HKU, stichting Moodbot
 Met dank aan Mir Wermuth, Growing Games
 
-**Growing Games**
+### Growing Games
 <blockquote>
 Bijdrage van Mir Wermuth, programmamanager Growing Games, 20 mei 2014
 
@@ -3929,6 +3938,7 @@ topsectorenbeleid ontkiemende initiatieven uit de markt een extra boost
 kan geven.”
 </blockquote>
 
+<p style="page-break-before:always;"></p>
 ### 2015 Stand van zaken en toekomst CLICKNL in het bredere creatieve landschap
 
 ![](imgs/resized-bijfotos/2015.jpg "Renovatie Metro Oostlijn Amsterdam")
@@ -4048,8 +4058,8 @@ CRISP. Daarnaast worden nieuwe relaties aangeboord en aangehaakt, al dan
 niet langs de lijn van de CLICKNL cross-overs.
 
 ![](imgs/resized-bijfotos/Kerncijfers-MIT-2013-en-2014.png "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
-![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
-![](imgs/Infographics/Kerncijfers TKI toeslag 2013-2015  - pagina 118 van het boek.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/resized-bijfotos/Kerncijfers-NWO-2013-2015.png "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
+![](imgs/resized-bijfotos/Kerncijfers-TKI-toeslag-2013-2015.png "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 ![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 
 CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015
@@ -4168,7 +4178,7 @@ en Arnhem. Daarnaast zijn het Stimuleringsfonds en Het Nieuwe Instituut,
 welke vanuit het ministerie van OCW worden ondersteund, belangrijke
 actoren in het creatieve landschap.
 
-**Positionering Cultuur en Economie**
+### Positionering Cultuur en Economie
 <blockquote>
 De term ‘creatieve industrie’ heeft schizofrene trekken. In Nederland
 zijn twee departementen die zich met de creatieve industrie bezig
@@ -4259,9 +4269,9 @@ regisseren!
 
 ![](imgs/resized-bijfotos/Stakeholders-in-het-creatieve-landschap.png "Stakeholders in het creatieve landschap")
 
-Stakeholders in het creatieve landschap
+&nbsp;
 
-# Deel III De overheid als hovenier
+# Deel III - De overheid als hovenier
 
 ‘Nederland als proeftuin’, met deze beeldspraak is dit boek gestart.
 Enerzijds vanuit de beeldende gedachte van de proeftuin waar in
@@ -4270,14 +4280,14 @@ diensten worden getest, gevalideerd en ontwikkeld. Anderzijds in termen
 van een tuin en een hovenier die experimenteert, accepteert dat een deel
 van wat hij zaait niet tot bloei komt en waar nodig ook pokon hanteert.
 
-**Pokon**[^93]
+### Pokon
 <blockquote>
 “CLICKNL is een rariteitenkabinet, een soort dierentuin met allemaal
 verschillende soorten dieren. De CLICKNL Netwerken verschillen sterk van
 elkaar. Games is als een bijenkolonie die verbindingen legt en zo honing
 maakt. Fashion zie ik bijvoorbeeld als vlinders die van de ene mooie
 bloem naar de andere vliegen. Economische Zaken zorgt voor een goed
-klimaat, misschien is EZ wel de pokon…”
+klimaat, misschien is EZ wel de pokon…”[^93]
 </blockquote>
 
 In dit hoofdstuk wordt het overheidsbeleid van de afgelopen decennia
@@ -4287,10 +4297,8 @@ waarvan inzichtelijk wordt dat generiek beleid niet zonder slag of stoot
 kan worden geïmplementeerd. In het laatste deel ten slotte wordt
 ingegaan op oogsten, na het zaaien.
 
-Klimaatbeheersing 
-------------------
 
-**Doelregelgeving**
+### Doelregelgeving
 <blockquote>
 Secretaris-generaal Camps van het ministerie van EZ gaat in zijn
 nieuwjaarsartikel begin januari 2015*[^94] *onder andere in op het
@@ -4303,10 +4311,11 @@ op hoofdlijnen in plaats van details.
 ![](imgs/resized-bijfotos/Innoveren-in-de-wereld-van-taxivervoer.jpg "Innoveren in de wereld van taxivervoer")
 
 **Innoveren in de wereld van taxivervoer**
-
 Het voorbeeld van UberPop: laveren tussen risicobeheersing en het
 faciliteren van innovatie wat vaak gepaard gaat met nieuwe business
 modellen.
+
+#### Klimaatbeheersing 
 
 Het overheidsbeleid is door de jaren heen aan verandering onderhevig. De
 overheid laveert daarbij tussen een overheid die (pro-)actief stimuleert
@@ -4323,37 +4332,37 @@ innovatiebeleid van het ministerie van Economische Zaken van 1976 tot en
 met 2010*’*. Daarbij onderscheidt hij zeven hoofdlijnen in het
 innovatiebeleid van de afgelopen 35 jaren[^96]:
 
--   De opkomst van het innovatiebeleid;
+1.   De opkomst van het innovatiebeleid;
 
--   Overheersing van technologisch gericht R&D-beleid;
+2.   Overheersing van technologisch gericht R&D-beleid;
 
--   Discussie over de verhouding tussen generiek en specifiek beleid;
+3.   Discussie over de verhouding tussen generiek en specifiek beleid;
 
--   De invloed van lobbyactiviteiten op het identificeren van sterke
-    gebieden;
+4.   De invloed van lobbyactiviteiten op het identificeren van sterke
+     gebieden;
 
--   Toenemende nadruk op samenwerking;
+5.   Toenemende nadruk op samenwerking;
 
--   Steeds verdere scheiding tussen maken en uitvoeren van beleid;
+6.   Steeds verdere scheiding tussen maken en uitvoeren van beleid;
 
--   Pogingen om het innovatiebeleid transparanter te maken.
+7.   Pogingen om het innovatiebeleid transparanter te maken.
 
 Velzing besluit zijn analyse van 35 jaar innovatiebeleid met zeven
 aanbevelingen voor toekomstig innovatiebeleid:
 
--   Zorg voor continuïteit;
+1.   Zorg voor continuïteit;
 
--   Bouw voort op de ervaringen met innovatiebeleid;
+2.   Bouw voort op de ervaringen met innovatiebeleid;
 
--   Kijk verder dan R&D alleen;
+3.   Kijk verder dan R&D alleen;
 
--   Kies eerder voor specifiek dan voor generiek beleid;
+4.   Kies eerder voor specifiek dan voor generiek beleid;
 
--   Voer geen incidentenpolitiek, maar anticipeer op incidenten;
+5.   Voer geen incidentenpolitiek, maar anticipeer op incidenten;
 
--   Verbeter de transparantie en verantwoording;
+6.   Verbeter de transparantie en verantwoording;
 
--   Vermijd kortademigheid.
+7.   Vermijd kortademigheid.
 
 Dit pleit ervoor, ook bij een nieuw kabinet, het topsectorenbeleid de
 komende jaren door te zetten. Daarbij wel met de nodige aanpassingen en
@@ -4415,8 +4424,7 @@ Tegelijkertijd wordt in de Technopolis-studie gepleit voor een ‘brede
 beleidsmix’, waarbij ruimtelijk economisch beleid slechts een bouwsteen
 is.
 
-Topsectoren vergeleken
-----------------------
+#### Topsectoren vergeleken
 
 De negen topsectoren die Nederland kent zijn sterk divers, zowel qua
 cultuur en structuur alsmede qua omvang en achtergrond. Zo bouwt een
@@ -4444,34 +4452,34 @@ coördinatiestrategieën vanuit vijf invalshoeken voor alle topsectoren,
 waarbij hier tussen haakjes specifiek wordt aangegeven wat dit betekende
 voor de creatieve industrie:
 
--   Focus in de onderzoeksagenda aanbrengen (relatief veel ruimte in de
+1.   Focus in de onderzoeksagenda aanbrengen (relatief veel ruimte in de
     eerste open call 2012/2013; later in de 2014/2015-propositie meer
     gerichte instrumenten, zoals Research through Design),
 
--   Hun achterbannen betrekken (opbouwen nieuwe structuren: topteam en
+2.   Hun achterbannen betrekken (opbouwen nieuwe structuren: topteam en
     Dutch Creative Council; het TKI-bureau met de zes CLICKNL
     Netwerken),
 
--   Het onderzoek organiseren (experimenteel met verschillende calls en
+3.   Het onderzoek organiseren (experimenteel met verschillende calls en
     instrumenten in 2012/2013 en 2014/2015),
 
--   De TKI-toeslag inzetten (pas in 2015 wordt de TKI toeslag ingezet:
+4.   De TKI-toeslag inzetten (pas in 2015 wordt de TKI toeslag ingezet:
     een deel in samenwerking met TKI Life Sciences & Health en een deel
     via toegepast onderzoek met TNO),
 
--   Het MKB betrekken (creatief MKB waarbij onder meer wordt ingezet op
+5.   Het MKB betrekken (creatief MKB waarbij onder meer wordt ingezet op
     de relatie met het grootbedrijf en in de vorm van cross-overs).
 
 Verder worden door het Rathenau Instituut vier coördinatieproblemen voor
 topsectoren onderscheiden:
 
--   Organisatievermogen in sector,
+1.   Organisatievermogen in sector,
 
--   Aandeel grootbedrijf,
+2.   Aandeel grootbedrijf,
 
--   Ervaring met publiek-private samenwerking (PPS),
+3.   Ervaring met publiek-private samenwerking (PPS),
 
--   Organisatievermogen in onderzoeksgebied
+4.   Organisatievermogen in onderzoeksgebied
 
 De topsector Creatieve Industrie scoorde laag op deze onderdelen. De
 topsector Logistiek scoorde eveneens laag op de onderdelen
@@ -4539,7 +4547,7 @@ vergelijken in de tijd. Daarbij speelt ook mee dat de eerste cijfers
 licht ‘vertekend’ kunnen zijn als gevolg van het moeten wennen aan het
 nieuwe topsectorenbeleid en dito instrumentarium de eerste periode.
 
-**CBS-cijfers topsectoren 2012**
+### CBS-cijfers topsectoren 2012
 <blockquote>
 “Wat is het (economisch) belang van de topsectoren voor Nederland?
 Onderstaand figuur vat dit samen. Bijna een kwart van de Nederlandse
@@ -4556,14 +4564,15 @@ topsectoren grotendeels de trend van de Nederlandse economie, alleen de
 productie nam met een stijging van 11% bovengemiddeld toe.”[^103]
 </blockquote>
 
-![](imgs/resized-bijfotos/CBS-Cijfers-Topsectoren-2012.png "CBS-cijfers topsectoren 2012") INVOEGEN VISUALISATIE CBS CIJFERS 2012
+![](imgs/resized-bijfotos/CBS-Cijfers-Topsectoren-2012.png "CBS-cijfers topsectoren 2012")
 
+&nbsp;
 
 In de Monitor Bedrijvenbeleid 2014 van het ministerie van EZ komen de
 topsectoren terug in relatie tot de TKI-regeling en de realisatie van
 private bijdragen in publiek-private samenwerking over 2013.
 
-**EZ cijfers TKI regeling 2013**
+### EZ cijfers TKI regeling 2013
 <blockquote>
 “Voor het eerst zijn kwantitatieve resultaten beschikbaar over de TKI’s
 (voor 2013). Private partijen hebben € 199 mln. (cash) bijgedragen aan
@@ -4575,11 +4584,9 @@ uit op 35%. Binnen de topsectoren zijn er een aantal TKI’s waarvan het
 private aandeel in 2013 boven de 40% uitkomt.”[^104]
 </blockquote>
 
-VISUALISATIE INVOEGEN EZ CIJFERS TKI REGELING 2013
+![](imgs/resized-bijfotos/EZ-cijfers-TKI-regeling-2013.png "EZ cijfers TKI regeling 2013") 
 
-BIJSCHRIFT
-
-EZ cijfers TKI regeling 2013
+&nbsp;
 
 Ook in ‘Topconsortia voor Kennis en Innovatie: Een terugblik op het jaar
 2013*’* wordt door RVO begin 2015 teruggekeken op het topsectorenbeleid,
@@ -4588,7 +4595,7 @@ TKI-toeslag. De verwachting is dat de aangevraagde en gerealiseerde
 TKI-toeslag in 2014 verdubbeld is ten opzichte van 2013, van 50 miljoen
 euro naar ruim 100 miljoen euro.
 
-**RVO-cijfers inzet TKI-toeslag 2013 **
+### RVO-cijfers inzet TKI-toeslag 2013
 <blockquote>
 “Van de ongeveer € 50 miljoen aan verdiende TKI-toeslag is in 2013
 ongeveer € 19 miljoen uitgegeven door 8 verschillende TKI’s. Hiermee
@@ -4602,11 +4609,9 @@ nieuwe samenwerkingsprojecten. Naar verwachting zullen de instituten in
 inzetten.”[^105]
 </blockquote>
 
-INVOEGEN VISUALISATIE RVO CIJFERS TKI TOESLAG 2013
+![](imgs/resized-bijfotos/RVO-cijfers-inzet-TKI-toeslag-2013.png "RVO-cijfers inzet TKI-toeslag 2013")
 
-BIJSCHRIFT
-
-RVO-cijfers inzet TKI-toeslag 2013
+&nbsp;
 
 **De topsectoren bezien als organisatieculturen**
 
@@ -4666,14 +4671,11 @@ zoals Life Sciences & Health en Energie. In onderstaand figuur worden de
 topsectoren met de nodige nuances geplot naar (dominantie op een van)
 deze vier cultuurtypen.
 
-INVOEGEN VISUALISATIE 4 KWADRANTEN CULTUURTYPOLOGIE
+![](imgs/resized-bijfotos/Cultuurtypologie-van-de-topsectoren.jpg "Cultuurtypologie van de topsectoren")
 
-BIJSCHRIFT
+&nbsp;
 
-Cultuurtypologie van de topsectoren
-
-Tijd voor een nieuw seizoen
----------------------------
+#### Tijd voor een nieuw seizoen
 
 Door de jaren heen heeft de creatieve industrie zich gestaag
 georganiseerd en verder uitgekristalliseerd. In termen van
@@ -4707,7 +4709,7 @@ topsectorenbeleid is tegelijk ingezet op nieuwe instrumenten (vormen van
 financiering) en op nieuwe vormen van organisatie van publiek-private
 samenwerking.
 
-**Topsectorenbeleid betreft systeemverandering**
+### Topsectorenbeleid betreft systeemverandering
 <blockquote>
 “Met de komst van de topsectorenaanpak in 2010 is er sprake van een
 ingrijpende systeemverandering. Deze systeemverandering kent twee
@@ -4764,7 +4766,7 @@ het advies gesteld dat het beleid dat beide ministeries voeren niet
 voldoende op elkaar is aangesloten. Op basis daarvan komen de
 gezamenlijke raden met een drieledig advies.
 
-**Naar een geïntegreerd beleid van EZ en OCW?**
+### Naar een geïntegreerd beleid van EZ en OCW?
 <blockquote>
 *- “Betere afstemming realiseren tussen de relevante instrumenten van
 innovatie-, wetenschaps- en cultuurbeleid, zodat ruimte wordt geboden
@@ -4804,7 +4806,7 @@ oogsten door verder te bouwen op de bestaande infrastructuren, daarbij
 meer samen te werken en slimmer gebruik te maken van bestaande
 instrumenten.
 
-***‘Creatieve industrie zoekt grotere economische impact’***
+### ‘Creatieve industrie zoekt grotere economische impact’
 <blockquote>
 De creatieve industrie begint zich te ‘bewijzen’, maar er is ook nog
 een weg te gaan. De sector staat op de kaart, is internationaal
@@ -4864,8 +4866,7 @@ daarbij de twee sleutelbegrippen. De vraagstukken van morgen vragen om
 integrale oplossingen waar voor de creatieve industrie bij uitstek een
 rol is weggelegd!
 
-<span id="_Toc257224512" class="anchor"><span id="_Toc297371195" class="anchor"></span></span>
-#Perspectieven op tien jaar creatieve industrie
+# Perspectieven op tien jaar creatieve industrie
 
 In dit deel van het boek worden verschillende perspectieven op de
 creatieve industrie weergegeven door middel van interviews met de
@@ -4919,10 +4920,10 @@ van tien jaar creatieve industrie doordat velen van hen aan de wieg
 hebben gestaan van de verscheidenheid aan initiatieven die zijn genomen
 en doorleven in de topsector Creatieve Industrie.
 
-### Emile Aarts 
-##### Rector magnificus, Tilburg University, lid Creative
-Council, voormalig voorzitter bestuur IIP/Create
+<p style="page-break-before:always;">
 
+### Emile Aarts 
+##### Rector magnificus, Tilburg University, lid Creative Council, voormalig voorzitter bestuur IIP/Create
 Datum interview: 29 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5034,11 +5035,10 @@ die we beter moeten leren begrijpen om op een hoger niveau te tillen.
 Er zijn meer onderzoeksprogramma’s nodig, meer geld, denk aan een
 fiscale box voor creatieve-industrieonderzoek.
 
-### Cees de Bont
-Voormalig decaan faculteit Industrieel Ontwerpen
-Technische Universiteit Delft, decaan School of Design & Swire Hong Kong
-Polytechnic University
+<p style="page-break-before:always;">
 
+### Cees de Bont
+##### Voormalig decaan faculteit Industrieel Ontwerpen Technische Universiteit Delft, decaan School of Design & Swire Hong Kong Polytechnic University
 Datum interview: 17 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5132,10 +5132,10 @@ men een heel sterk zelfvertrouwen, de potentie is enorm, heel spannend
 als dat verder gaat opschalen. Amerika is nu nog dominant, maar in Azië
 groeit men heel hard…
 
-### Annemieke Eggenkamp
-Voormalig lid topteam (Human Capital Agenda,
-Internationalisering)
+<p style="page-break-before:always;">
 
+### Annemieke Eggenkamp
+##### Voormalig lid topteam (Human Capital Agenda, Internationalisering)
 Datum interview: 17 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5226,10 +5226,10 @@ te leiden, wat is een ondernemer? Het gaat er eerder om mensen breed op
 te leiden en diverse basisvaardigheden mee te geven. Een ondernemer maak
 je niet, het is eerder een combinatie van motivatie en vaardigheden.
 
-### Valerie Frissen
-Directeur SIDN (Stichting Internet
-Domeinregistratie Nederland), voormalig directeur TKI CLICKNL
+<p style="page-break-before:always;">
 
+### Valerie Frissen
+##### Directeur SIDN (Stichting Internet Domeinregistratie Nederland), voormalig directeur TKI CLICKNL
 Datum interview: 14 maart 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5353,10 +5353,10 @@ alle weeffouten is erg moeizaam gebleken.
 Meer focus op het MKB, betere integratie met diensten (naast het accent
 op de maakindustrie) en cross-overs.
 
-### Marjan Hammersma
-Directeur-generaal OCW, lid topteam Creatieve
-Industrie (Overheid)
+<p style="page-break-before:always;">
 
+### Marjan Hammersma
+##### Directeur-generaal OCW, lid topteam Creatieve Industrie (Overheid)
 Datum interview: 24 maart 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5472,10 +5472,10 @@ begrip ontstaan.
 Dit is immens, zie ook het recente WRR-rapport, regionaal, ook
 internationaal. De behoefte aan creatieve oplossingen is overal groot.
 
-### Erik Huizer 
-Chief Technology Officer SURFnet, lid topteam Creatieve
-Industrie (Kennis en Innovatie)
+<p style="page-break-before:always;">
 
+### Erik Huizer 
+##### Chief Technology Officer SURFnet, lid topteam Creatieve Industrie (Kennis en Innovatie)
 Datum interview: 22 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5604,10 +5604,10 @@ Zeker, de creatieve industrie heeft als topsector de meeste toekomst.
 Juist met de creatieve industrie kunnen we ons als Nederland
 onderscheiden!
 
-### Dany Jacobs
-Voorheen hoogleraar UvA en lector Creatieve
-Economie, Hogeschool voor de Kunsten Utrecht
+<p style="page-break-before:always;">
 
+### Dany Jacobs
+##### Voorheen hoogleraar UvA en lector Creatieve Economie, Hogeschool voor de Kunsten Utrecht
 Datum interview: 25 maart 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5720,10 +5720,10 @@ De overheid zou haar middelen moeten richten op het toekomstgericht
 verder versterken van de 4,5 topsectoren die de sterkte van Nederland
 vormen, in interactie met de creatieve industrie en logistiek.
 
-### Luuk Klomp 
-Plaatsvervangend directeur Innovatie en Kennis,
-ministerie EZ
+<p style="page-break-before:always;">
 
+### Luuk Klomp 
+##### Plaatsvervangend directeur Innovatie en Kennis, ministerie EZ
 Datum interview: 30 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5825,9 +5825,10 @@ overigens niet in beton gegoten, we houden ook oog voor de dynamiek
 waarbij het op termijn zou kunnen dat er een topsector bijkomt of
 afgaat.
 
-### Harry Starren
-Voorzitter Federatie Dutch Creative Industries
+<p style="page-break-before:always;">
 
+### Harry Starren
+##### Voorzitter Federatie Dutch Creative Industries
 Datum interview: 16 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -5950,9 +5951,10 @@ het MKB liggen eerder kansen in meer toegepast onderzoek, zoals via het
 HBO. Relevante vraag hierbij is welke actoren echt innovatief zijn: zijn
 dat wel universiteiten, grootbedrijf of TNO?
 
-### Marleen Stikker
-Oprichter De Digitale Stad en Waag Society
+<p style="page-break-before:always;">
 
+### Marleen Stikker
+##### Oprichter De Digitale Stad en Waag Society
 Datum interview: 11 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -6065,10 +6067,10 @@ de kennisinstellingen nodig, maar minder hard gestuurd door het kader
 van de wetenschap. De eisen vanuit de overheid zijn nu te stringent voor
 een *uptake* vanuit de bedrijven, ook voor wat betreft matching.
 
-### Victor van der Chijs
-Bestuursvoorzitter Universiteit Twente,
-voormalig boegbeeld topsector Creatieve Industrie
+<p style="page-break-before:always;">
 
+### Victor van der Chijs
+##### Bestuursvoorzitter Universiteit Twente, voormalig boegbeeld topsector Creatieve Industrie
 Datum interview: 20 juni 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -6211,10 +6213,10 @@ staat een professioneel topteam, het is minder pionieren dan toen.
 Mensen weten elkaar beter te vinden. Er is echt veel bereikt, zeker
 gegeven de beperkingen in middelen.
 
-### Jeroen van Erp
-Creatief directeur Fabrique, lid topteam Creatieve
-Industrie (MKB)
+<p style="page-break-before:always;">
 
+### Jeroen van Erp
+##### Creatief directeur Fabrique, lid topteam Creatieve Industrie (MKB)
 Datum interview: 16 april 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -6359,10 +6361,10 @@ een belangrijke rol en dat is iets wat we als ontwerpers heel goed
 kunnen. Ik heb zelden aan een project gewerkt dat zoveel impact heeft
 gehad.
 
-### Bas Verhart
-Voormalig lid Innovatieplatform, creatief ondernemer,
-medeoprichter THNK en PICNIC
+<p style="page-break-before:always;">
 
+### Bas Verhart
+##### Voormalig lid Innovatieplatform, creatief ondernemer, medeoprichter THNK en PICNIC
 Datum interview: 10 juni 2014
 
 **Wat was uw rol als creatief MKB’er in het Innovatieplatform?**
@@ -6456,10 +6458,10 @@ Ik zie drie scenario’s:
 3.  Terugvallen tot ‘wereldberoemd in Nederland’. Teveel navelstaren,
     geen opschalen. Een marginale rol in de wereld.
 
-### Mathieu Weggeman
-Hoogleraar Technische Universiteit Eindhoven, lid
-Raad voor Cultuur
+<p style="page-break-before:always;">
 
+### Mathieu Weggeman
+##### Hoogleraar Technische Universiteit Eindhoven, lid Raad voor Cultuur
 Datum interview: 1 mei 2014
 
 **Wat verstaat u onder de creatieve industrie?**
@@ -6556,9 +6558,10 @@ interviews gehouden met de volgende personen:
 -   Nico van Meeteren, directeur TKI Life Sciences & Health en Colja
     Laanen, voormalig interim directeur LS&H
 
-### Kees de Gooijer
-Directeur TKI Agri&Food en TKI Biobased Economy
+<p style="page-break-before:always;">
 
+### Kees de Gooijer
+##### Directeur TKI Agri&Food en TKI Biobased Economy
 Datum interview: 8 april 2015
 
 **Kunt u kort en kernachtig aangeven waar het TKI Agri&Food voor staat?**
@@ -6692,9 +6695,10 @@ biologisch drogen, waarbij de warmte bijvoorbeeld voor het eigen bedrijf
 wordt benut en de stroom weer bij de buren die een aardbeienkwekerij
 hebben.
 
-### Jacques Joosten
-Directeur TKI Smart Polymeric Materials
+<p style="page-break-before:always;">
 
+### Jacques Joosten
+##### Directeur TKI Smart Polymeric Materials
 Datum interview: 10 april 2015
 
 **Wat is uw betrokkenheid bij het Nederlandse innovatiebeleid geweest?**
@@ -6834,10 +6838,10 @@ sectoren moeten gaan. De WBSO is heel zinvol en efficiënt, maar hoe de
 RDA regeling bijv. de publiek-private samenwerking gaat bevorderen is
 voor mij niet duidelijk.
 
-### Nico van Meeteren
-Directeur TKI Life Sciences & Health en **Colja
-Laanen**, voormalig interim directeur LS&H
+<p style="page-break-before:always;">
 
+### Nico van Meeteren
+##### Directeur TKI Life Sciences & Health en Colja Laanen, voormalig interim directeur LS&H
 Datum interview: 19 maart 2015
 
 **Kunt u kort en kernachtig aangeven waar het TKI Life Sciences & Health
