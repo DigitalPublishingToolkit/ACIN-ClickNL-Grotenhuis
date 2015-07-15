@@ -442,7 +442,7 @@ naar ‘slimste straat van Nederland’, met multifunctionele en duurzame
 gebouwen, waar volop innovatie plaatsvindt en veel kennis is
 gecentreerd.[^9]
 
-![](imgs/The-Knowledge-mile.jpg "The Knowledge Mile")
+![](imgs/resized-bijfotos/The-Knowledge-mile.jpg "The Knowledge Mile")
 
 **The Knowledge Mile** Met dank aan Amsterdam Creative Industries Network. 
 Foto credits: Mark van der Horst | [*Airpic.nl*](http://airpic.nl/)
@@ -567,7 +567,7 @@ elektrische activiteit in de hersenen wordt gemeten[^15].
 >deelnemers waren enthousiast en de organisatoren besloten tot een
 >volgende editie in 2015, waarbij de nadruk zal liggen op
 >maatschappelijke uitdagingen.” Voor meer informatie:
->[*www.hackthebrain.nl*](http://www.hackthebrain.nl/)
+>[www.hackthebrain.nl](http://www.hackthebrain.nl/)
 
 **Do-it-yourself**
 
@@ -595,11 +595,11 @@ de gezondheidssector, zijn talloos. Een andere ontwikkeling, die van
 >undertaken by individuals with extensive research training from academia
 >or corporations, who then mentor and oversee other DIY biologists with
 >no formal training. This may be done as a
->[*hobby*](http://en.wikipedia.org/wiki/Hobby), sometimes called*
->[*biohacking*](http://en.wikipedia.org/wiki/Biohacking), as a
+>[hobby](http://en.wikipedia.org/wiki/Hobby), sometimes called*
+>[biohacking](http://en.wikipedia.org/wiki/Biohacking), as a
 >not-for-profit endeavor for community learning and open-science
 >innovation, or for profit, to start a
->[*business*](http://en.wikipedia.org/wiki/Business).”[^17]
+>[business](http://en.wikipedia.org/wiki/Business).”[^17]
 
 **Van Industrie 4.0 naar Smart Industry**
 
@@ -1103,7 +1103,7 @@ partner, de overheid of een maatschappelijke instelling) te duiden.
 >gepresenteerd. Het voorstel werd positief beoordeeld, maar met het
 >aantreden van het nieuwe kabinet Rutte werd dit aangehouden. In het
 >nieuwe topsectorenbeleid, dat met dit nieuwe kabinet werd ingezet, kwam
->de creatieve industrie als een van de negen topsectoren terug.”*
+>de creatieve industrie als een van de negen topsectoren terug.”
 
 ## Wat vooraf ging
 
@@ -1545,8 +1545,8 @@ Verder heeft IIP/Create enkele pilotprojecten rond cross-overs opgezet
 om de waarde van de creatieve industrie voor andere sectoren te staven,
 zoals op het gebied van gezondheidszorg en logistiek.
 
-**Brandstofbesparing door *service design* en *gamification* in de
-logistieke sector** 
+### Brandstofbesparing door service design en gamification in de
+logistieke sector
 
 >Bijdrage van Onno van der Veen, oprichter Zeeno, 24
 >maart 2014
@@ -1568,8 +1568,8 @@ logistieke sector**
 >Ideate (service design) ontwikkelde samen met CGI (game
 >design/ICT-ontwikkeling) die nieuwe dienst door eerst op zoek te gaan
 >naar inzichten in de belevingswereld van chauffeurs, hun drijfveren en
->aspiraties. Op basis van deze inzichten ontwikkelde het team een*
->customer journey *die op verschillende manieren chauffeurs motiveert om
+>aspiraties. Op basis van deze inzichten ontwikkelde het team een
+>customer journey die op verschillende manieren chauffeurs motiveert om
 >een half jaar lang bezig te blijven met zuinig rijden. Een game
 >ondersteunt chauffeurs daarbij. In de game kunnen de chauffeurs steeds
 >nieuwe uitdagingen aangaan met zes parameters die te maken hebben met
@@ -1980,17 +1980,17 @@ Stimuleringsfonds en TKI CLICKNL.
 >verder vorm krijgen, maar ondertussen is de Federatie de enige
 >georganiseerde gesprekspartner in de creatieve industrie.*
 
-De Federatie Dutch Creative Industries vertegenwoordigt nu 8 branche-
-en beroepsorganisaties met in totaal meer dan 6.000 individuele leden en
-bijna 2.500 creatieve bedrijven met een gezamenlijke bijdrage aan het
-bruto nationaal product van ruim 11 miljard euro.
+>De Federatie Dutch Creative Industries vertegenwoordigt nu 8 branche-
+>en beroepsorganisaties met in totaal meer dan 6.000 individuele leden en
+>bijna 2.500 creatieve bedrijven met een gezamenlijke bijdrage aan het
+>bruto nationaal product van ruim 11 miljard euro.
 
-De Federatie is ontstaan door de inzet van twee mensen, Rob Huisman
-(toenmalig directeur van de BNO) en Gerbrand Bas (directeur van
-Designlink) die van mening waren dat de sector alleen via
-krachtenbundeling een geloofwaardige gesprekspartner zou kunnen worden
-en blijven. Er was vervolgens overigens niet veel tijd nodig om andere
-beroeps- en brancheorganisaties van dit belang te overtuigen.
+>De Federatie is ontstaan door de inzet van twee mensen, Rob Huisman
+>(toenmalig directeur van de BNO) en Gerbrand Bas (directeur van
+>Designlink) die van mening waren dat de sector alleen via
+>krachtenbundeling een geloofwaardige gesprekspartner zou kunnen worden
+>en blijven. Er was vervolgens overigens niet veel tijd nodig om andere
+>beroeps- en brancheorganisaties van dit belang te overtuigen.
 
 >De aanvankelijke betrokkenheid van Pakhuis de Zwijger maar ook de
 >daaropvolgende gastvrijheid van de BNO bleek de positionering van de
@@ -7381,7 +7381,7 @@ ZWV Zorgverzekeringswet
 
 [^17]: <http://en.wikipedia.org/wiki/DIY\_biology>
 
-[^18]: <www.smartindustry.nl>
+[^18]: <http://www.smartindustry.nl>
 
 [^19]: <http://www.smartindustry.nl/wp-content/uploads/2014/11/Smart-Industry-actieagenda-LR.pdf>
 
