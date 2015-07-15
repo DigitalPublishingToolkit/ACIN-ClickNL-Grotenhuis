@@ -999,7 +999,7 @@ Innovatieplatform en de sleutelgebiedenaanpak tot het ontstaan van de
 topsector Creatieve Industrie. In vogelvlucht is deze dynamiek in drie
 grove delen op te knippen.
 
-### Wat vooraf ging
+#### Wat vooraf ging
 
 De periode van exploratie in 2003 door het Innovatieplatform,
 lobbykrachten in politiek Den Haag, het in 2004 benoemen van
@@ -1014,7 +1014,7 @@ gericht op onderzoek naar innovatieve methoden om cultureel erfgoed
 beleidsnota’s geschreven en verkenningen binnen de creatieve industrie
 uitgevoerd, welke hebben geresulteerd in diverse relevante initiatieven.
 
-### Van fragmentatie naar organisatie
+#### Van fragmentatie naar organisatie
 
 Eigenlijk is pas sinds 2007 echt sprake van het ontstaan van nieuwe
 nationale samenwerkingsverbanden binnen de creatieve industrie.
@@ -1105,6 +1105,7 @@ partner, de overheid of een maatschappelijke instelling) te duiden.
 >nieuwe topsectorenbeleid, dat met dit nieuwe kabinet werd ingezet, kwam
 >de creatieve industrie als een van de negen topsectoren terug.”
 
+<p style="page-break-before:always;"></p>
 ## Wat vooraf ging
 
 De creatieve industrie als sleutelgebied, en later topsector, was niet
@@ -1113,7 +1114,7 @@ creatieve industrie op de kaart kwam en er vandaag de dag niet meer af
 is te denken.
 
 <p style="page-break-before:always;"></p>
-## 2003: Context kenniseconomie 
+### 2003: Context kenniseconomie 
 
 ![](imgs/resized-bijfotos/2003.jpg "Hack the Brain")
 
@@ -1178,7 +1179,7 @@ In 2003 is het Innovatieplatform van start gegaan, als opmaat voor de
 sleutelgebieden in 2004.
 
 <p style="page-break-before:always;"></p>
-## 2004: Sleutelgebieden
+### 2004: Sleutelgebieden
 
 ![](imgs/resized-bijfotos/2004.jpg "Solar Shirt")
 
@@ -1257,7 +1258,7 @@ niet van bewust zijn geweest, hoewel dit programma een belangrijke stap
 was en een van de fundamenten is geworden voor het latere TKI CLICKNL.
 
 <p style="page-break-before:always;"></p>
-## 2005: Ons Creatieve Vermogen
+### 2005: Ons Creatieve Vermogen
 
 ![](imgs/resized-bijfotos/2005.jpg "Biohacking")
 
@@ -1415,6 +1416,7 @@ samenwerken langs de lijn van de A2-as van Amsterdam, via Utrecht tot
 Eindhoven. Ieder had eigen plannen op lokaal en regionaal niveau, hier
 bovenuit stijgen was geen sinecure.
 
+<p style="page-break-before:always;"></p>
 ## Van fragmentatie naar organisatie
 
 In de periode 2007-2011 werd met horten en stoten de fragmentatie binnen
@@ -2288,6 +2290,7 @@ to assess the behavior and emotion of groups of people and relay that
 information to stakeholders.
 Met dank aan Noldus information Technology.
 
+<p style="page-break-before:always;"></p>
 ## Van sleutelgebied tot topsector
 
 Met het voortijdig vallen van het derde kabinet Balkenende en het
