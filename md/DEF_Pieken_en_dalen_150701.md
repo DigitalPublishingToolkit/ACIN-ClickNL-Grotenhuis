@@ -1545,8 +1545,7 @@ Verder heeft IIP/Create enkele pilotprojecten rond cross-overs opgezet
 om de waarde van de creatieve industrie voor andere sectoren te staven,
 zoals op het gebied van gezondheidszorg en logistiek.
 
-### Brandstofbesparing door service design en gamification in de
-logistieke sector
+### Brandstofbesparing door service design en gamification in de logistieke sector
 
 >Bijdrage van Onno van der Veen, oprichter Zeeno, 24
 >maart 2014
@@ -3632,7 +3631,7 @@ TKI-toeslag.
 
 ![](imgs/Infographics/Overzichten-instrumenten-en-regelingen.jpg "Overzicht instrumenten en regelingen")
 
-Overzicht instrumenten en regelingen
+&nbsp;
 
 <p style="page-break-before:always;"></p>
 ### 2014: Cross-overs
@@ -4053,7 +4052,7 @@ niet langs de lijn van de CLICKNL cross-overs.
 ![](imgs/resized-bijfotos/Kerncijfers-TKI-toeslag-2013-2015.png "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 ![](imgs/resized-bijfotos/Kennis-en-innovatie-gedurende-periode-2012-2015-onderdeel-overzicht.jpg "CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015")
 
-CLICKNL resultaten: kennis en innovatie gedurende de periode 2012-2015
+&nbsp;
 
 #### Toekomst TKI CLICKNL
 
