@@ -2347,7 +2347,7 @@ creatie. Op basis van de evaluatie door het topteam Creatieve Industrie
 over de periode 2011-2013 wordt hieronder een update geschetst van de
 verschillende agendaonderdelen[^65].
 
-![](imgs/Infographics/Agenda-topteam-creatieve-industrie.jpg "Agenda topteam Creatieve Industrie")
+![](imgs/resized-bijfotos/Agenda-topteam-creatieve-industrie.png "Agenda topteam Creatieve Industrie")
 
 &nbsp;
 
@@ -3862,7 +3862,7 @@ stad Utrecht via de Economic Board Utrecht), kennisinstellingen
 (waaronder TNO) en het bedrijfsleven, is de ambitie te groeien naar een
 markt ter waarde van ruim 10 miljard euro in 2015[^92].
 
-![](imgs/resized-bijfotos/Moodbot.tif "Moodboot")
+![](imgs/resized-bijfotos/Moodbot.jpg "Moodbot")
 
 **Moodbot**
 Moodbot werkt als een interactieve coach, die mensen met een
