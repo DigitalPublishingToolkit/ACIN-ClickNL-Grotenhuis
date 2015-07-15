@@ -74,8 +74,7 @@ ISBN print: 978-90-821753-1-8 <br></br>
 ISBN ePub: 978-90-821753-2-5
 
 <p style="page-break-after:always;"></p>
-<br/><br/>
-<br/><br/>
+
 <blockquote>
 “Here's to the crazy ones.
 
@@ -362,7 +361,7 @@ nieuwe producten en diensten. De creatieve industrie speelt een
 belangrijke rol bij het signaleren, interpreteren en vertalen van trends
 en ontwikkelingen naar nieuwe toepassingen.
 
-### Nederland Kennisland
+#### Nederland Kennisland
 
 Nederland is mondiaal gezien (nog steeds) een koploper voor wat betreft
 innovatie. Op de Global Innovatie Index 2014 staat Nederland op een
@@ -370,7 +369,7 @@ vijfde plaats[^1], waarbij wordt gekeken naar diverse aspecten van
 infrastructuur tot de politieke situatie. Ook scoort Nederland met een
 achtste plaats hoge ogen in de Global Competitiveness Index 2014-2015.
 
-## Nederland op nummer 8 in de Global Competitiveness Index 2014-2015
+### Nederland op nummer 8 in de Global Competitiveness Index 2014-2015
 
 >“As in the last edition, the Netherlands retains its 8th place this
 >year and depicts a stable competitiveness profile. Overall, the country
@@ -463,7 +462,7 @@ worden beschouwd. Naast de metropoolregio Amsterdam en Brainport
 Eindhoven kent Nederland meerdere regio’s die als proeftuin fungeren en
 diverse Living Lab-projecten faciliteren.
 
-### Het creëren van trends
+#### Het creëren van trends
 
 De afgelopen decennia hebben meerdere trendwatchers generieke trends in
 kaart gebracht en op basis daarvan toekomstscenario’s ontwikkeld.
@@ -501,7 +500,7 @@ rekenkracht zal ‘emotie’ het onderscheidende element blijven tussen mens
 en technologie. Vooralsnog blijkt dit een majeur struikelblok in het
 nabootsen van menselijk gedrag.
 
-## Singularity
+### Singularity
 
 >“Singularity is defined as the point in time when computer intelligence
 >exceeds human intelligence, due to rapid and accelerating developments
@@ -532,7 +531,7 @@ kan worden gedacht aan preventieve toepassingen zoals het voorspellen
 van een epilepsieaanval met behulp van een implantaat waarmee
 elektrische activiteit in de hersenen wordt gemeten[^15].
 
-## Hack the Brain
+### Hack the Brain
 
 >Bijdrage van Frank Kresin, onderzoeksdirecteur Waag Society, 4 juli 2014
 
@@ -588,7 +587,7 @@ wordt gebruikt[^16]. De toepassingsmogelijkheden, zoals in relatie tot
 de gezondheidssector, zijn talloos. Een andere ontwikkeling, die van
 ‘Do-it-yourself biology’ raakt hier sterk aan.
 
-## Do-it-yourself biology (DIY biology)
+### Do-it-yourself biology (DIY biology)
 
 >“DIY biology is a growing movement in which individuals, communities,
 >and small organizations, study biology and life science using the same
@@ -816,7 +815,7 @@ wearables. Daarnaast heeft de overheid een belangrijke rol in de
 (ethische) discussie over het signaleren en waar nodig het ontwikkelen
 van nieuwe wetgeving.
 
-### De rol van de creatieve industrie
+#### De rol van de creatieve industrie
 
 De creatieve industrie speelt een belangrijke rol bij het vertalen van
 trends naar nieuwe producten en diensten. Deze sector is bij uitstek
@@ -871,7 +870,7 @@ ook de definities. In dit boek wordt onderstaande definitie van TNO uit
 2004 gehanteerd, in het verlengde waarvan de afgelopen jaren overigens
 meerdere variaties zijn ontwikkeld.
 
-## Creatieve industrie
+### Creatieve industrie
 
 >“De creatieve industrie is een specifieke vorm van bedrijvigheid die
 >producten of diensten voortbrengt die het resultaat zijn van individuele
@@ -1046,7 +1045,7 @@ Industrie, is de gele kaart definitief omgezet in een groen licht. In
 het verlengde daarvan kon men niet meer om de creatieve industrie heen
 als een van de topsectoren.
 
-### Van sleutelgebied tot topsector
+#### Van sleutelgebied tot topsector
 
 De periode 2011-2015 staat voor het ontstaan en uitbouwen van de
 topsector Creatieve Industrie en het topconsortium voor Kennis en
@@ -1065,7 +1064,7 @@ Ook wordt in deze context de uitdrukking *It takes 4 to tango* gebruikt
 om de specifieke relatie met opdrachtgevers (zoals een industriële
 partner, de overheid of een maatschappelijke instelling) te duiden.
 
-## De rol van de overheid
+### De rol van de overheid
 
 >Interview met Michiel Janson, ministerie EZ, juli 2013
 
@@ -1538,7 +1537,7 @@ instrument werd ingezet om het veld verder te organiseren, als opmaat
 naar programmering via onder andere een nationaal innovatieprogramma en
 Europese projectfinanciering.
 
-![](imgs/infographics/Programmatische-ambities-IIPCreate-v2.jpg "IIP/Create")
+![](imgs/resized-bijfotos/Programmatische-ambities-IIPCreate-v2.png "IIP/Create")
 
 &nbsp;
 
@@ -1653,12 +1652,12 @@ haar toepassingen meebracht voor andere sectoren, zoals de zorgsector.
 >nieuwe diensten en producten, waardoor er directe innovatie plaatsvond.
 >Het tijdelijk plaatsen van een bedrijfsmedewerker bij een
 >kennisinstelling, of het na afloop overnemen van een onderzoeker door
->het bedrijf,* embodied transfer*, bleken effectieve manieren van
+>het bedrijf, embodied transfer, bleken effectieve manieren van
 >kennisoverdracht. De bedrijven verklaren zelf, dat zonder deze projecten
 >een aantal innovaties niet zou hebben plaatsgevonden. Door de korte
 >ontwikkelcycli bij entertainmentbedrijven vonden de
 >kennistransferprojecten uiteindelijk vooral plaats bij bedrijven in de
->serious gamingindustrie en* enabling technology*.*
+>serious gamingindustrie en* enabling technology.
 
 >GATE heeft eraan bijgedragen dat Nederland internationaal wordt gezien
 >als vooroplopend in (serious) gaming. Het succes van GATE heeft ertoe
@@ -1717,7 +1716,7 @@ Fashion and Architecture.
 >partnerland wilde worden. Dit vanwege de internationale reputatie van de
 >Dutch Design Week. Er bleek bij een rondgang in de creatieve industrie
 >voldoende interesse. Het thema van de Nederlandse bijdrage werd Open
->Minds.*
+>Minds.
 
 >Grote delegatie
 
@@ -1847,8 +1846,7 @@ terug, weliswaar gefragmenteerd.
 **Service Innovation and ICT: people driven, ICT empowered**
 Met dank aan Fred Kappetijn en Carlien Roodink
 
-### Nederland als hét Europese centrum voor slimme informatie- en
-mediadiensten?
+### Nederland als hét Europese centrum voor slimme informatie- en mediadiensten?
 
 >“Geen papieren rekeningen of acceptgiro’s meer in de brievenbus, maar
 >voortaan alles netjes digitaal bezorgd in de mailbox. Dit is een van de
@@ -2330,7 +2328,7 @@ worden per topsector afspraken vastgelegd over gezamenlijke
 investeringen en publiek-private samenwerking in onderzoek en
 ontwikkeling.
 
-![](imgs/Infographics/Negen-topsectoren-v2.jpg "Negen topsectoren ter versterking van de Nederlandse economie")
+![](imgs/resized-bijfotos/Negen-topsectoren-v2.png "Negen topsectoren ter versterking van de Nederlandse economie")
 
 &nbsp;
 
@@ -2457,7 +2455,7 @@ ICT. Gezamenlijk is een Strategische Research en Innovatieagenda
 ontwikkeld welke fungeert als baken voor de verschillende activiteiten,
 waaronder onderzoeksprogramma’s, innovatieregelingen en cross-overs.
 
-![](imgs/Infographics/TKI-CLICKNL-en-zes-netwerken-v2.jpg "TKI CLICKNL en de zes CLICKNL Netwerken")
+![](imgs/resized-bijfotos/TKI-CLICKNL-en-zes-netwerken-v2.png "TKI CLICKNL en de zes CLICKNL Netwerken")
 
 &nbsp;
 
@@ -3062,17 +3060,16 @@ Netwerken representeren. Daarnaast wordt de relatie met de Europese
 *societal challenges* gelegd, alsmede met vijf *creative industries
 research areas*: inhoudelijke onderzoeksvraagstukken.
 
-[](images/Infographics/Illustratie-programmatische-invulling-pagina-105-van-het-boek.jpg "Kennis en innovatieagenda CLICKNL")
-
-&nbsp;
-
-Kennis- en innovatieagenda CLICKNL[^72]
-
 Vanuit zes de CLICKNL Netwerken (solution spaces) worden
 onderzoeksconsortia geformeerd die zich inhoudelijk richten op vijf
 creative industries research areas. De opgedane kennis en inzichten van
 dit onderzoek dragen direct bij aan maatschappelijke vraagstukken, de
 societal challenges.
+
+
+![](imgs/resized-bijfotos/Kennis-En-InnovatieAgenda-ClickNL.png "Kennis- en innovatieagenda CLICKNL[^72]")
+
+&nbsp;
 
 Ter illustratie: vanuit diverse CLICKNL Netwerken als *solution space*,
 zoals CLICKNL Games en Media & ICT, wordt onderzoek gedaan naar
@@ -3084,8 +3081,6 @@ wordt gedaan naar slimme e-health-oplossingen en gamificationconcepten
 in relatie tot dementie en langer zelfstandig kunnen functioneren.
 
 ![](imgs/Infographics/Illustratie-programmatische-invulling.jpg "Illustratie van programmatische invulling")
-
-&nbsp;
 
 Illustratie van programmatische invulling van onderdelen van de KIA met
 een programma over langer zelfstandig functioneren met dementie, waarbij
@@ -3204,8 +3199,6 @@ betrokken[^77].
 ![](imgs/Infographics/Kerncijfers creatieve industrie NWO en TNO - pagina 108 van het boek.jpg "Kerncijfers creatieve industrie NWO en TNO")
 
 &nbsp;
-
-Kerncijfers creatieve industrie NWO en TNO, periode 2012-2014
 
 **Kennisontwikkeling en creatief MKB**
 
@@ -3473,8 +3466,6 @@ keten, branche of regio.
 
 ![](imgs/Infographics/Kerncijfers MIT 2013 en 2014 - pagina 116 van het boek.jpg "Kerncijfers MIT 2013 en 2014")
 
-Kerncijfers MIT 2013 en 2014
-
 In 2015 is de MIT-regeling verder aangepast door het ministerie van EZ.
 Daarbij wordt samengewerkt met de regio’s vanuit de ambitie de
 verschillende instrumenten op regionaal en nationaal niveau beter op
@@ -3575,7 +3566,7 @@ TKI-toeslag) weer nieuwe TKI-toeslag wordt gegenereerd.
 
 &nbsp;
 
-*Uitdagingen TKI-regeling*
+**Uitdagingen TKI-regeling**
 
 Uitdagingen in de TKI-regeling voor alle TKI’s raken aan de complexiteit
 van de regeling, de concurrentiegevoeligheid en veranderingen in de
@@ -3628,7 +3619,7 @@ analyse weer dat er over 2013 30% minder is gerealiseerd dan beoogd voor
 wat betreft de TKI-regeling, een verschil van enkele tientallen
 miljoenen euro’s die de topsectoren daarmee minder ontvangen[^84].
 
-*Inzet TKI-toeslag*
+**Inzet TKI-toeslag**
 
 TKI CLICKNL heeft in 2015 langs twee lijnen TKI-toeslag ingezet: een
 eerste bedrag in samenwerking met TKI Life Sciences & Health gericht op
@@ -3771,8 +3762,7 @@ van de concrete projecten op locaties van de betrokken vijf gemeenten.
 
 #### Create Health
 
-![](imgs/resized-bijfotos/ABCDEsim-1.png "ABCDESIM")
-![](imgs/resized-bijfotos/abcdeSIM-2.png "abcdeSIM") INVOEGEN FOTO abcdeSIM
+![](imgs/resized-bijfotos/abcdeSIM.png "ABCDESIM")
 
 **abcdeSIM**
 In een online realistische virtuele spoedeisende hulp omgeving worden
@@ -4491,7 +4481,7 @@ scoorde laag op ervaring met publiek-private samenwerking (PPS). De
 andere topsectoren scoorden allemaal gemiddeld tot hoog op alle
 onderdelen.
 
-![](imgs/resized-bijfotos/Coordinatieproblemen-per-topsector-vrij-overgenomen-van-Rathenau-Instituut.png "Coördinatieproblemen per topsector, vrij overgenomen van Rathenau Instituut")
+![](imgs/resized-bijfotos/Rathenau-Coordinatie-table.png "Coördinatieproblemen per topsector, vrij overgenomen van Rathenau Instituut")
 
 ‘Coördinatieproblemen per topsector’, vrij overgenomen van Rathenau
 Instituut[^100]
@@ -4672,7 +4662,7 @@ zoals Life Sciences & Health en Energie. In onderstaand figuur worden de
 topsectoren met de nodige nuances geplot naar (dominantie op een van)
 deze vier cultuurtypen.
 
-![](imgs/resized-bijfotos/Cultuurtypologie-van-de-topsectoren.jpg "Cultuurtypologie van de topsectoren")
+![](imgs/resized-bijfotos/Cultuurtypologie-van-de-topsectoren.png "Cultuurtypologie van de topsectoren")
 
 &nbsp;
 
@@ -5607,7 +5597,7 @@ onderscheiden!
 
 <p style="page-break-before:always;">
 
-### Dany Jacobs
+### Dany Jacobs († 2015)
 ##### Voorheen hoogleraar UvA en lector Creatieve Economie, Hogeschool voor de Kunsten Utrecht
 Datum interview: 25 maart 2014
 
